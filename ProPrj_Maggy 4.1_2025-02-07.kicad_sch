@@ -6635,16 +6635,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 82.55) (xy 179.07 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0432ad72-53b2-4d1d-b86b-daa67a7048b6")
-	)
-	(wire
-		(pts
 			(xy 339.09 97.79) (xy 341.63 97.79)
 		)
 		(stroke
@@ -6915,16 +6905,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 71.12) (xy 179.07 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b743228-f665-453c-aaa4-f269ea8739b7")
-	)
-	(wire
-		(pts
 			(xy 124.46 273.05) (xy 121.92 273.05)
 		)
 		(stroke
@@ -7175,7 +7155,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 46.99) (xy 179.07 48.26)
+			(xy 179.07 45.72) (xy 179.07 48.26)
 		)
 		(stroke
 			(width 0)
@@ -8015,7 +7995,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 36.83) (xy 179.07 35.56)
+			(xy 179.07 35.56) (xy 179.07 38.1)
 		)
 		(stroke
 			(width 0)
@@ -8135,7 +8115,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 161.29) (xy 102.87 162.56)
+			(xy 102.87 161.29) (xy 102.87 163.83)
 		)
 		(stroke
 			(width 0)
@@ -8525,6 +8505,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 69.85) (xy 179.07 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cd0e9d7-75ba-4a05-a9a4-3b6666987176")
+	)
+	(wire
+		(pts
 			(xy 335.28 240.03) (xy 336.55 240.03)
 		)
 		(stroke
@@ -8625,7 +8615,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 173.99) (xy 194.31 173.99)
+			(xy 191.77 173.99) (xy 195.58 173.99)
 		)
 		(stroke
 			(width 0)
@@ -9895,6 +9885,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 171.45) (xy 102.87 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e90d64e7-b716-4357-a7c1-da0311223a69")
+	)
+	(wire
+		(pts
 			(xy 354.33 196.85) (xy 359.41 196.85)
 		)
 		(stroke
@@ -10055,6 +10055,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 80.01) (xy 179.07 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f81ea6b5-810e-4f7a-b700-77268cd0f537")
+	)
+	(wire
+		(pts
 			(xy 142.24 186.69) (xy 152.4 186.69)
 		)
 		(stroke
@@ -10202,6 +10212,16 @@
 			(type default)
 		)
 		(uuid "ffa21a4f-2c2b-4ec2-bcc8-7eb480110de6")
+	)
+	(wire
+		(pts
+			(xy 203.2 173.99) (xy 204.47 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffb24bdc-f8ed-4fa7-9925-178926f727c4")
 	)
 	(wire
 		(pts
@@ -15558,7 +15578,7 @@
 		(lib_id "Device:LED")
 		(at 179.07 76.2 90)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -15577,7 +15597,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "XL-1608SYGC-06"
+		(property "Value" "Yellow-Green"
 			(at 182.88 79.0574 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15588,7 +15608,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:LED0603-RD_GREEN"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 179.07 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -20477,7 +20497,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "XL-1608SYGC-06"
+		(property "Value" "Yellow-Green"
 			(at 106.68 170.4974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20488,7 +20508,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:LED0603-RD_GREEN"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 102.87 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -23223,7 +23243,7 @@
 		(lib_id "Device:LED")
 		(at 179.07 41.91 90)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -23242,7 +23262,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "XL-1608SYGC-06"
+		(property "Value" "Yellow-Green"
 			(at 182.88 44.7674 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23253,7 +23273,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:LED0603-RD_RED"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 179.07 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -24319,7 +24339,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 199.39 173.99 0)
+		(at 199.39 173.99 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24330,25 +24350,23 @@
 		(fields_autoplaced yes)
 		(uuid "ceccfb2d-e1de-49b2-b277-ffa9f622e612")
 		(property "Reference" "R14"
-			(at 201.93 172.7199 0)
+			(at 199.39 167.64 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "10K"
-			(at 201.93 175.2599 0)
+			(at 199.39 170.18 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "ProPrj_Mag-easyedapro:R0805"
