@@ -13852,7 +13852,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 66.04 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -14347,7 +14347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP"
+		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias"
 			(at 54.61 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -14908,7 +14908,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 162.56 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -15000,7 +15000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R1206"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 250.19 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -15213,7 +15213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CONN-TH_0430450800"
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43045-0800_2x04_P3.00mm_Horizontal"
 			(at 53.34 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -15366,7 +15366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP"
+		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias"
 			(at 137.16 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -16140,7 +16140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 364.49 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -16912,7 +16912,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 78.74 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -17237,7 +17237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 83.82 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -17331,7 +17331,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 166.37 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -17735,7 +17735,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R1206"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 330.2 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -17872,7 +17872,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 163.83 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -17966,7 +17966,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 125.73 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -18058,7 +18058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 171.45 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -18152,7 +18152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 289.56 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -18234,7 +18234,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 290.83 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -18554,7 +18554,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 161.29 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -18882,7 +18882,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 388.62 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -19120,7 +19120,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 86.36 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -19214,7 +19214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 388.62 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -19294,7 +19294,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R1206"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 250.19 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -19805,7 +19805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 83.82 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -20192,7 +20192,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 124.46 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -20362,7 +20362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 222.25 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -20520,7 +20520,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP"
+		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias"
 			(at 138.43 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -20847,7 +20847,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 102.87 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -21019,7 +21019,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 78.74 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -21189,7 +21189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 171.45 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -21591,7 +21591,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 388.62 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -21835,7 +21835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 388.62 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -22065,7 +22065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 210.82 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -22147,7 +22147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 388.62 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -22227,7 +22227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CONN-TH_43045-1000"
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43045-1000_2x05_P3.00mm_Horizontal"
 			(at 53.34 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -22643,7 +22643,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 124.46 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -22971,7 +22971,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 163.83 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -23710,7 +23710,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 210.82 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -23792,7 +23792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CAP-SMD_BD6.3-L6.6-W6.6-LS7.2-FD"
+		(property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7"
 			(at 91.44 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -23946,7 +23946,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 125.73 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -24422,7 +24422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CAP-SMD_BD6.3-L6.6-W6.6-LS7.2-FD"
+		(property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7"
 			(at 91.44 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -24730,7 +24730,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 364.49 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -24812,7 +24812,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 167.64 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -25062,7 +25062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CAP-SMD_BD6.3-L6.6-W6.6-LS7.2-FD"
+		(property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7"
 			(at 173.99 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -25315,7 +25315,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CAP-SMD_BD6.3-L6.6-W6.6-LS7.2-FD"
+		(property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7"
 			(at 175.26 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -25857,7 +25857,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 27.94 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -25949,7 +25949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:C0805"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 76.2 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -26276,7 +26276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 364.49 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -26512,7 +26512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP"
+		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias"
 			(at 54.61 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -26909,7 +26909,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 41.91 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -27001,7 +27001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 364.49 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -27081,7 +27081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Mag-easyedapro:R0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 364.49 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -27161,7 +27161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:R1206"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 328.93 241.3 0)
 			(hide yes)
 			(show_name no)
