@@ -661,7 +661,7 @@
         "uuid": "52283d6a-1d9f-44e8-81a2-e61315819c23"
       }
     ],
-    "used_designators": "#FLG1-6,1111,CN1-2,111,C1-24,C28-32,U1-25,R1-25,R30-34,R41-45,USBC1,11,11111,#PWR1-73,LED1-4,1",
+    "used_designators": "#FLG1-6,1111,CN1-2,111,C1-25,C28-32,U1-26,R1-26,R30-34,R41-45,USBC1,11,11111,#PWR1-73,LED1-4,1",
     "variants": []
   },
   "sheets": [
