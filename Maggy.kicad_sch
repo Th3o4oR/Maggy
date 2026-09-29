@@ -13812,7 +13812,7 @@
 			(uuid "d1ab279c-9577-4059-bbdf-e3ea73fe5857")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "USBC1")
 					(unit 1)
@@ -13904,7 +13904,7 @@
 			(uuid "6692fbd7-f1c5-4b66-b871-9f077607ebbd")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R3")
 					(unit 1)
@@ -14052,7 +14052,7 @@
 			(uuid "cdd6475f-44e1-457f-86ad-05a6d9050a83")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U18")
 					(unit 1)
@@ -14130,7 +14130,7 @@
 			(uuid "9d20bec8-b1e4-4f1e-a295-024f2ef6dd6f")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR018")
 					(unit 1)
@@ -14229,7 +14229,7 @@
 			(uuid "841cf48c-fab0-4066-81a6-059df425ead8")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U24")
 					(unit 1)
@@ -14307,7 +14307,7 @@
 			(uuid "ba52c58e-5d4a-46d4-b6bc-cdcd37907a50")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR05")
 					(unit 1)
@@ -14476,7 +14476,7 @@
 			(uuid "5fb4a3c5-2fbc-490b-8f27-8646772fa751")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U2")
 					(unit 1)
@@ -14554,7 +14554,7 @@
 			(uuid "2e3c108d-679b-451d-83fa-a89bea544249")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR027")
 					(unit 1)
@@ -14632,7 +14632,7 @@
 			(uuid "eb901e69-a4c0-4bbf-8063-5d216f61f72e")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR057")
 					(unit 1)
@@ -14710,7 +14710,7 @@
 			(uuid "1b2094f0-119e-48f5-966f-faa3a10122e4")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR035")
 					(unit 1)
@@ -14788,7 +14788,7 @@
 			(uuid "aadab51e-e780-4deb-88f2-43fad2596f4a")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR048")
 					(unit 1)
@@ -14866,7 +14866,7 @@
 			(uuid "4dfe94f1-8369-43a4-a264-059306110c99")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR058")
 					(unit 1)
@@ -14960,7 +14960,7 @@
 			(uuid "4dff602c-ce39-4ee9-9942-fa98c5ab1393")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C9")
 					(unit 1)
@@ -15095,7 +15095,7 @@
 			(uuid "7e4b1ee3-aad8-4600-8c3d-5e19860a9b36")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R16")
 					(unit 1)
@@ -15173,7 +15173,7 @@
 			(uuid "d3c4ba1b-e875-46df-8e39-a1e6ae278187")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR015")
 					(unit 1)
@@ -15326,7 +15326,7 @@
 			(uuid "437882ca-031d-4868-9560-2c2b0f46e154")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "CN1")
 					(unit 1)
@@ -15495,7 +15495,7 @@
 			(uuid "b9085692-a81e-4b15-abac-f5a1691e58c2")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U9")
 					(unit 1)
@@ -15648,7 +15648,7 @@
 			(uuid "81ea39c4-d9b5-443f-8ed9-399c739e0724")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U13")
 					(unit 1)
@@ -15796,7 +15796,7 @@
 			(uuid "4825f7a6-bf76-4fcf-95c8-79ae0bf27c28")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U6")
 					(unit 1)
@@ -15944,7 +15944,7 @@
 			(uuid "59098f9f-610e-4a7f-83ca-da21956d7377")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U19")
 					(unit 1)
@@ -16022,7 +16022,7 @@
 			(uuid "1b6a83e3-7399-426b-bcf1-51ac74d88e52")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR024")
 					(unit 1)
@@ -16100,7 +16100,7 @@
 			(uuid "5715c9a5-992b-4f94-a3e0-2abe2d3baecc")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR065")
 					(unit 1)
@@ -16180,7 +16180,7 @@
 			(uuid "2702891f-8b5a-43f7-a7c5-c1044c44b116")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R20")
 					(unit 1)
@@ -16340,7 +16340,7 @@
 			(uuid "3d476910-53f8-42d8-875e-5b234efb4d9e")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "LED4")
 					(unit 1)
@@ -16418,7 +16418,7 @@
 			(uuid "bba82720-e23e-4d83-b53a-41265a44dd5e")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR07")
 					(unit 1)
@@ -16517,7 +16517,7 @@
 			(uuid "357e3601-3a88-43c9-b5a2-37cd19b900ba")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U23")
 					(unit 1)
@@ -16792,7 +16792,7 @@
 			(uuid "52958008-4818-432b-81b8-5e4c5a8a5556")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U25")
 					(unit 1)
@@ -16870,7 +16870,7 @@
 			(uuid "27a21e54-281d-40ad-9f79-a7c43ee9abff")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR054")
 					(unit 1)
@@ -16964,7 +16964,7 @@
 			(uuid "8261a5d6-ccd0-4525-a951-79ced125d931")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C3")
 					(unit 1)
@@ -17042,7 +17042,7 @@
 			(uuid "cd69bacb-53e6-4b98-a4d2-60f9e38ef40f")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR044")
 					(unit 1)
@@ -17195,7 +17195,7 @@
 			(uuid "71d42a21-06a3-4966-a2b8-8e0c29efaf00")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U12")
 					(unit 1)
@@ -17289,7 +17289,7 @@
 			(uuid "5e423941-fdef-4b81-9f12-94682724e24b")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R5")
 					(unit 1)
@@ -17383,7 +17383,7 @@
 			(uuid "fe10725d-d3e8-476f-b796-006c6bbf40e0")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R10")
 					(unit 1)
@@ -17461,7 +17461,7 @@
 			(uuid "df754d9f-22ca-4d18-a669-9dedebfea952")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR063")
 					(unit 1)
@@ -17539,7 +17539,7 @@
 			(uuid "b980f709-5d45-4b8c-b57f-f786d78efcf2")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR017")
 					(unit 1)
@@ -17617,7 +17617,7 @@
 			(uuid "d5cb8fe0-b047-4316-9161-eadfec07edc5")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR070")
 					(unit 1)
@@ -17695,7 +17695,7 @@
 			(uuid "44d02aaa-6223-4ac5-91e5-f95931855ed9")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR030")
 					(unit 1)
@@ -17830,7 +17830,7 @@
 			(uuid "1203dc00-09a2-4b9f-884d-d7a02eb91208")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R18")
 					(unit 1)
@@ -17924,7 +17924,7 @@
 			(uuid "726bdc38-c2c9-4e88-aca9-a05c5357b19a")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C10")
 					(unit 1)
@@ -18018,7 +18018,7 @@
 			(uuid "4576a612-4fe7-4fae-a654-126d4f0e58bf")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C7")
 					(unit 1)
@@ -18110,7 +18110,7 @@
 			(uuid "e052196a-f314-42b8-9019-3449f1d696a9")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R13")
 					(unit 1)
@@ -18192,7 +18192,7 @@
 			(uuid "239d4698-9e7c-4e7d-8ed7-e7c825cd4f9b")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C16")
 					(unit 1)
@@ -18274,7 +18274,7 @@
 			(uuid "143c5fee-ca63-445a-9501-bae7fae7ad11")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C17")
 					(unit 1)
@@ -18434,7 +18434,7 @@
 			(uuid "ac807b5f-2ce0-4559-8022-49bbc651b649")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "LED1")
 					(unit 1)
@@ -18512,7 +18512,7 @@
 			(uuid "91aa0b21-e37c-4a27-bbef-031326cd40e3")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR06")
 					(unit 1)
@@ -18606,7 +18606,7 @@
 			(uuid "5c39aea1-d043-42c1-8e27-7b887a8d1a0d")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C8")
 					(unit 1)
@@ -18684,7 +18684,7 @@
 			(uuid "9586a60b-32da-432d-beba-f1051217afee")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR046")
 					(unit 1)
@@ -18762,7 +18762,7 @@
 			(uuid "cddf9aca-94c2-4609-b0c5-b26bb5d37194")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR071")
 					(unit 1)
@@ -18840,7 +18840,7 @@
 			(uuid "e31ab205-913d-4837-bcda-425b75560d88")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR056")
 					(unit 1)
@@ -18922,7 +18922,7 @@
 			(uuid "51be8238-c6a5-428e-b494-18c4d5458d74")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C22")
 					(unit 1)
@@ -19000,7 +19000,7 @@
 			(uuid "dfee9bdc-94de-47c4-a4b8-83a28ac5d7c7")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR038")
 					(unit 1)
@@ -19078,7 +19078,7 @@
 			(uuid "24d10a8d-e221-4750-a204-8b7079c2fbcb")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR062")
 					(unit 1)
@@ -19172,7 +19172,7 @@
 			(uuid "b257c5b1-f6d5-4308-b3c0-4caba12d2f01")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R6")
 					(unit 1)
@@ -19254,7 +19254,7 @@
 			(uuid "b470992d-58c6-47a6-b88e-e5ca1fff3e26")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C18")
 					(unit 1)
@@ -19389,7 +19389,7 @@
 			(uuid "52f36178-6f09-4307-94f0-47f9329adacd")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R15")
 					(unit 1)
@@ -19537,7 +19537,7 @@
 			(uuid "1046ed87-209c-48f7-b565-65acdc1d7a7a")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U15")
 					(unit 1)
@@ -19685,7 +19685,7 @@
 			(uuid "2ce61247-26b7-4617-a7e0-7c5bb9213dd2")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U16")
 					(unit 1)
@@ -19763,7 +19763,7 @@
 			(uuid "37b93da9-9a41-4be7-9bf3-6469e6d968bb")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR025")
 					(unit 1)
@@ -19857,7 +19857,7 @@
 			(uuid "3db1a9c2-27fd-4e37-84a1-88f35671c0ae")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R4")
 					(unit 1)
@@ -19935,7 +19935,7 @@
 			(uuid "34cac176-f79a-4cc5-b4de-98561f9af797")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR042")
 					(unit 1)
@@ -20013,7 +20013,7 @@
 			(uuid "eacf0d38-e7bc-4e3e-b657-77b81abcf970")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR013")
 					(unit 1)
@@ -20150,7 +20150,7 @@
 			(uuid "b569e5c5-21ac-4d64-a0ef-441a3b00ffd1")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U4")
 					(unit 1)
@@ -20244,7 +20244,7 @@
 			(uuid "901c7695-5a73-49ab-baa7-d342c57b0b6b")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R9")
 					(unit 1)
@@ -20322,7 +20322,7 @@
 			(uuid "55fa9620-0b79-4bc2-80d5-051b6f5c946e")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR022")
 					(unit 1)
@@ -20402,7 +20402,7 @@
 			(uuid "e4c1e69c-be1d-4551-954a-085ccb2ef682")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R24")
 					(unit 1)
@@ -20480,7 +20480,7 @@
 			(uuid "b9de8414-7866-444d-b80a-f693984d1db0")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR037")
 					(unit 1)
@@ -20649,7 +20649,7 @@
 			(uuid "52ea7354-7edd-4348-a01e-565fa879e402")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U10")
 					(unit 1)
@@ -20727,7 +20727,7 @@
 			(uuid "7d2d9033-a615-409a-8765-0ba6eb715c1a")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR029")
 					(unit 1)
@@ -20805,7 +20805,7 @@
 			(uuid "d79b07cb-a516-41c9-a3ab-8eaf8501e6be")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR01")
 					(unit 1)
@@ -20899,7 +20899,7 @@
 			(uuid "76ba31d1-1fdd-405f-be84-a0adba949239")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R7")
 					(unit 1)
@@ -20977,7 +20977,7 @@
 			(uuid "2a5e862a-78bf-4f65-a59e-e39f0b12603d")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR010")
 					(unit 1)
@@ -21071,7 +21071,7 @@
 			(uuid "8db33a8f-e0ca-4923-965b-39e7a807ef5d")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C2")
 					(unit 1)
@@ -21149,7 +21149,7 @@
 			(uuid "5cb3e180-a420-4aed-935d-96810426387e")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR051")
 					(unit 1)
@@ -21241,7 +21241,7 @@
 			(uuid "c52fcaac-52d0-4e92-99a6-42c1c5c8a1b9")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R12")
 					(unit 1)
@@ -21389,7 +21389,7 @@
 			(uuid "1b3a0803-b73e-47f0-bce6-9698a91877f8")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U8")
 					(unit 1)
@@ -21549,7 +21549,7 @@
 			(uuid "0a722efb-3df7-43c6-a44f-298ffba80009")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "LED2")
 					(unit 1)
@@ -21631,7 +21631,7 @@
 			(uuid "e2c40775-ba59-4e88-a8f7-73bb9a9b7e1e")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C19")
 					(unit 1)
@@ -21793,7 +21793,7 @@
 			(uuid "df2b7991-d985-4992-898b-7bd687db5cc2")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U3")
 					(unit 1)
@@ -21875,7 +21875,7 @@
 			(uuid "be9dc237-f706-4ed8-be6b-326c57cf55f9")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C21")
 					(unit 1)
@@ -22023,7 +22023,7 @@
 			(uuid "7c17c84d-cc7d-47e0-b233-bc72fdf40d2c")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U7")
 					(unit 1)
@@ -22105,7 +22105,7 @@
 			(uuid "84cd8d38-0278-410b-8bf8-2b0fab5eab7c")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C15")
 					(unit 1)
@@ -22187,7 +22187,7 @@
 			(uuid "8321a6ca-62e1-4a12-bacc-5babc7b3e2c3")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C20")
 					(unit 1)
@@ -22346,7 +22346,7 @@
 			(uuid "60eddb3b-8bd6-4bdb-a452-27cc4992dd71")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "CN2")
 					(unit 1)
@@ -22445,7 +22445,7 @@
 			(uuid "c697df4e-10d1-4061-ad8f-47abbb4978cf")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U21")
 					(unit 1)
@@ -22523,7 +22523,7 @@
 			(uuid "23137b08-f57a-4062-99c9-0bf16696aceb")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR033")
 					(unit 1)
@@ -22601,7 +22601,7 @@
 			(uuid "9c1e9915-a5cf-4af3-b86c-fe5eeba8bc27")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR023")
 					(unit 1)
@@ -22695,7 +22695,7 @@
 			(uuid "ca9ad6e1-6031-4a7e-9bec-576e7a12c76d")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R8")
 					(unit 1)
@@ -22773,7 +22773,7 @@
 			(uuid "46f233f2-a9eb-4d66-b319-0466793ff2cd")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR039")
 					(unit 1)
@@ -22851,7 +22851,7 @@
 			(uuid "674a108d-8a15-42ac-b6c9-80a2c644a1a5")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR016")
 					(unit 1)
@@ -22929,7 +22929,7 @@
 			(uuid "04ad0617-6a2a-4af3-9d80-9fbfb87fabd5")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR047")
 					(unit 1)
@@ -23023,7 +23023,7 @@
 			(uuid "c5ba15a6-d747-4fc6-a8fe-e767eaf4298b")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C11")
 					(unit 1)
@@ -23101,7 +23101,7 @@
 			(uuid "375680ee-d0ff-49d9-8e2f-4e1b61b90512")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR012")
 					(unit 1)
@@ -23179,7 +23179,7 @@
 			(uuid "6bd4d9cc-4f69-41ca-a87b-2fd58af3e353")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR045")
 					(unit 1)
@@ -23278,7 +23278,7 @@
 			(uuid "7e5720f2-7d45-4487-8e87-27b3dbe9b0a2")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U20")
 					(unit 1)
@@ -23356,7 +23356,7 @@
 			(uuid "d47fc1cf-6d7c-4e41-8f3f-386f4a47f58f")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR041")
 					(unit 1)
@@ -23434,7 +23434,7 @@
 			(uuid "ce4dd075-089a-4b6e-bf30-b1e052790db4")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR026")
 					(unit 1)
@@ -23512,7 +23512,7 @@
 			(uuid "29065b5d-c0f2-4013-a3f3-f0b76806625a")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR03")
 					(unit 1)
@@ -23590,7 +23590,7 @@
 			(uuid "6863c572-84a6-48ab-881d-8a0562c31e32")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR069")
 					(unit 1)
@@ -23668,7 +23668,7 @@
 			(uuid "a2e827c1-5772-4099-84d9-e397896d1204")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR049")
 					(unit 1)
@@ -23750,7 +23750,7 @@
 			(uuid "a5435f36-36a7-4f82-b846-2da31c38c931")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C14")
 					(unit 1)
@@ -23904,7 +23904,7 @@
 			(uuid "69a01b8c-0a5f-4878-bfe4-710b885a6304")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C5")
 					(unit 1)
@@ -23998,7 +23998,7 @@
 			(uuid "e48dce85-5cf3-492d-99d3-9771e33f894c")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C6")
 					(unit 1)
@@ -24076,7 +24076,7 @@
 			(uuid "c4da955e-3622-42f9-aa7f-57c6c118de44")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR04")
 					(unit 1)
@@ -24224,7 +24224,7 @@
 			(uuid "d7c5cae5-5eb3-4dee-945e-bd319f572250")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "LED3")
 					(unit 1)
@@ -24302,7 +24302,7 @@
 			(uuid "41fe277a-4015-48c7-ab0d-a68dd6dd4bbf")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR067")
 					(unit 1)
@@ -24380,7 +24380,7 @@
 			(uuid "74c82d4c-4269-41fa-adbd-a2f11ed7574e")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR02")
 					(unit 1)
@@ -24534,7 +24534,7 @@
 			(uuid "b9e6a1d3-52c5-41f7-9b25-860a99170861")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C4")
 					(unit 1)
@@ -24612,7 +24612,7 @@
 			(uuid "53f9a17a-eae3-41b0-beaf-1c9ffd1e3ed5")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR031")
 					(unit 1)
@@ -24690,7 +24690,7 @@
 			(uuid "1080ce0e-4d0d-4720-8f0a-d8093a486d8a")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR040")
 					(unit 1)
@@ -24770,7 +24770,7 @@
 			(uuid "601fd1b8-e6c0-470b-9628-8572460c7bf2")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R21")
 					(unit 1)
@@ -24864,7 +24864,7 @@
 			(uuid "94b44f31-58e0-4426-8e08-ef60a1454719")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R11")
 					(unit 1)
@@ -24942,7 +24942,7 @@
 			(uuid "dd26e1a1-f649-40f5-aa68-2a3032126df4")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR055")
 					(unit 1)
@@ -25020,7 +25020,7 @@
 			(uuid "5488e523-b835-483e-8090-fc18b441d848")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR064")
 					(unit 1)
@@ -25174,7 +25174,7 @@
 			(uuid "81fcbc88-cebe-44ca-b5f4-8e8b9c8e8e60")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C12")
 					(unit 1)
@@ -25273,7 +25273,7 @@
 			(uuid "87ab8bf3-5817-403d-ae61-dee96cf2ecc0")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U22")
 					(unit 1)
@@ -25427,7 +25427,7 @@
 			(uuid "e41be7d8-ad98-4175-920d-3d7a0c89d625")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C13")
 					(unit 1)
@@ -25581,7 +25581,7 @@
 			(uuid "fb853e7b-d441-4f96-bafe-395a23f7dbdb")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U11")
 					(unit 1)
@@ -25659,7 +25659,7 @@
 			(uuid "e101cf9a-4db5-4d41-accb-9329c6e67911")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR09")
 					(unit 1)
@@ -25737,7 +25737,7 @@
 			(uuid "3be0242c-3c7b-4504-8664-9a8905ae4d60")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR043")
 					(unit 1)
@@ -25815,7 +25815,7 @@
 			(uuid "09680041-5de0-4415-9e59-cf057d97c29f")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR021")
 					(unit 1)
@@ -25909,7 +25909,7 @@
 			(uuid "ec668f46-4aa4-4d15-a5d8-aeb9935ddbec")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R1")
 					(unit 1)
@@ -26001,7 +26001,7 @@
 			(uuid "585dad7f-8c0f-419c-9ed3-f83282a0dfab")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "C1")
 					(unit 1)
@@ -26080,7 +26080,7 @@
 			(uuid "05eea293-1661-4f90-86a7-d9ecb3dae992")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR068")
 					(unit 1)
@@ -26158,7 +26158,7 @@
 			(uuid "4e5e5b20-ee13-4c5e-bfde-2df1e8ee8e54")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR073")
 					(unit 1)
@@ -26236,7 +26236,7 @@
 			(uuid "e0fa158f-639f-4a43-b28b-f9a692c3ccc0")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR066")
 					(unit 1)
@@ -26316,7 +26316,7 @@
 			(uuid "c931e0ce-8eb0-4aad-af14-996df483fe21")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R22")
 					(unit 1)
@@ -26394,7 +26394,7 @@
 			(uuid "b730995f-9eec-40b6-b793-14c14fcd76c4")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR020")
 					(unit 1)
@@ -26472,7 +26472,7 @@
 			(uuid "21cab6eb-0993-4944-a19c-a2aa7a9285a6")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR014")
 					(unit 1)
@@ -26641,7 +26641,7 @@
 			(uuid "fd721afe-21be-478a-a55c-ab6fe06865fa")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U1")
 					(unit 1)
@@ -26789,7 +26789,7 @@
 			(uuid "78879ce8-403b-4db6-8ba1-3b187e448be6")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "U5")
 					(unit 1)
@@ -26867,7 +26867,7 @@
 			(uuid "adb9dda8-1845-4098-ab3e-10d78c95eab4")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR034")
 					(unit 1)
@@ -26961,7 +26961,7 @@
 			(uuid "5f296437-ec4d-4679-8c91-1c7ccd57c0ae")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R2")
 					(unit 1)
@@ -27041,7 +27041,7 @@
 			(uuid "3907db71-85a8-47a1-bacd-6b3ebdc1b5c3")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R23")
 					(unit 1)
@@ -27121,7 +27121,7 @@
 			(uuid "57627019-6ff1-4bc1-93dc-b45c7201e7bf")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R19")
 					(unit 1)
@@ -27256,7 +27256,7 @@
 			(uuid "5926e3b3-52af-43ce-83e7-866655b88bf6")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "R17")
 					(unit 1)
@@ -27334,7 +27334,7 @@
 			(uuid "d1b30df5-e9bf-4d59-b468-ad1e7cf0a0e2")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR028")
 					(unit 1)
@@ -27412,7 +27412,7 @@
 			(uuid "9c7741b4-05a9-4da2-b3ed-0404e95769dc")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR036")
 					(unit 1)
@@ -27490,7 +27490,7 @@
 			(uuid "c16c915e-dd26-493c-b20f-6fc96f4b6108")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR059")
 					(unit 1)
@@ -27568,7 +27568,7 @@
 			(uuid "0219007a-b3fd-45f6-a0c3-43c5fc2ad0d9")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR032")
 					(unit 1)
@@ -27646,7 +27646,7 @@
 			(uuid "78ba2713-5c32-4733-b03d-487736bca4b9")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR011")
 					(unit 1)
@@ -27724,7 +27724,7 @@
 			(uuid "90f3604d-5bdc-45f4-8838-22511975bc71")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR019")
 					(unit 1)
@@ -27802,7 +27802,7 @@
 			(uuid "0b92038b-7620-40f0-9a15-bebc3d538eab")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR08")
 					(unit 1)
@@ -27880,7 +27880,7 @@
 			(uuid "b6750b78-e739-4e14-8f56-6367b4e4b819")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR050")
 					(unit 1)
@@ -27958,7 +27958,7 @@
 			(uuid "c8c9b92c-3a9d-4211-abb2-0e57a8e0f933")
 		)
 		(instances
-			(project "ProPrj_Maggy 4.1_2025-02-07"
+			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "#PWR072")
 					(unit 1)

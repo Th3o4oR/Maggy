@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ProPrj_Maggy 4.1_2025-02-07.kicad_pro",
+    "filename": "Maggy.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,7 +656,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ProPrj_Maggy 4.1_2025-02-07.kicad_sch",
+        "filename": "Maggy.kicad_sch",
         "name": "Schematic1",
         "uuid": "52283d6a-1d9f-44e8-81a2-e61315819c23"
       }
