@@ -16414,7 +16414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28962e0b-c807-45a4-966f-208823c8ac87")
-		(property "Reference" "U6"
+		(property "Reference" "J2"
 			(at 162.56 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16543,7 +16543,7 @@
 		(instances
 			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
-					(reference "U6")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -21569,7 +21569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a609a2f-540c-49a9-9936-a1707d45d571")
-		(property "Reference" "U8"
+		(property "Reference" "J4"
 			(at 162.56 185.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21698,7 +21698,7 @@
 		(instances
 			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
-					(reference "U8")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -22469,7 +22469,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82cc509c-80a7-4699-95ac-1bb4dbc8d0e1")
-		(property "Reference" "U7"
+		(property "Reference" "J3"
 			(at 162.56 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22598,7 +22598,7 @@
 		(instances
 			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
-					(reference "U7")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -26881,7 +26881,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e36bf9fc-3969-44f1-8577-5bb338e4d26c")
-		(property "Reference" "U5"
+		(property "Reference" "J1"
 			(at 162.56 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27010,7 +27010,7 @@
 		(instances
 			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
-					(reference "U5")
+					(reference "J1")
 					(unit 1)
 				)
 			)
