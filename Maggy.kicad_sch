@@ -277,6 +277,212 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector:Screw_Terminal_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Screw_Terminal_01x02"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "screw terminal"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "TerminalBlock*:*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Screw_Terminal_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
 			(pin_names
 				(offset 1.016)
@@ -3842,182 +4048,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "ProPrj_Mag-easyedapro:XY308-2.54-2P"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "ProPrj_Mag-easyedapro:CONN-TH_XY308-2.54-2P"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200527/C557686_13715264167F455C722D771DE12648FD.pdf"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Structure:1x2P Pitch:2.54mm Color:Green Mounting Style:Straight Current Rating (Max):6A Voltage Rating (Max):150V Number of Pins:2P Number of Rows:1 Wire Gauge - AWG:18~26 Wire Gauge - AWG:18~26 Wire Gauge - mm2:1 Wire Gauge - mm2:1 Number of PINs Per Row"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer Part" "XY308-2.54-2P"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "XINLAIYA(新莱亚)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Supplier Part" "C557685"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Supplier" "LCSC"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC Part Name" "2.54mm 1x2P 排数:1 每排P数:2 直插"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "XY308-2.54-2P_1_0"
-				(rectangle
-					(start -2.54 -3.81)
-					(end 2.54 3.81)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -1.27 2.54)
-					(radius 0.381)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at -5.08 1.27 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -5.08 -1.27 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Regulator_Linear:LM1117S-3.3"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -6740,8 +6770,8 @@
 		(uuid "3b7c6ba7-ad87-4dab-b721-4aa2af05f299")
 	)
 	(rectangle
-		(start 132.08 144.78)
-		(end 170.18 196.85)
+		(start 152.4 144.78)
+		(end 184.785 198.755)
 		(stroke
 			(width 0)
 			(type dash)
@@ -6837,7 +6867,7 @@
 	)
 	(text "Terminal blocks"
 		(exclude_from_sim no)
-		(at 132.08 143.51 0)
+		(at 152.4 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8211,7 +8241,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 168.91) (xy 157.48 168.91)
+			(xy 167.64 168.91) (xy 172.72 168.91)
 		)
 		(stroke
 			(width 0)
@@ -8271,7 +8301,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 181.61) (xy 157.48 181.61)
+			(xy 167.64 181.61) (xy 172.72 181.61)
 		)
 		(stroke
 			(width 0)
@@ -8561,7 +8591,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 166.37) (xy 157.48 166.37)
+			(xy 167.64 166.37) (xy 172.72 166.37)
 		)
 		(stroke
 			(width 0)
@@ -9351,7 +9381,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 156.21) (xy 157.48 156.21)
+			(xy 167.64 156.21) (xy 172.72 156.21)
 		)
 		(stroke
 			(width 0)
@@ -9571,7 +9601,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 153.67) (xy 157.48 153.67)
+			(xy 167.64 153.67) (xy 172.72 153.67)
 		)
 		(stroke
 			(width 0)
@@ -10931,7 +10961,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 193.04) (xy 157.48 193.04)
+			(xy 167.64 194.31) (xy 172.72 194.31)
 		)
 		(stroke
 			(width 0)
@@ -11251,7 +11281,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 190.5) (xy 157.48 190.5)
+			(xy 167.64 191.77) (xy 172.72 191.77)
 		)
 		(stroke
 			(width 0)
@@ -11401,7 +11431,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 179.07) (xy 157.48 179.07)
+			(xy 167.64 179.07) (xy 172.72 179.07)
 		)
 		(stroke
 			(width 0)
@@ -11489,7 +11519,7 @@
 	)
 	(global_label "1_21"
 		(shape bidirectional)
-		(at 157.48 156.21 0)
+		(at 172.72 156.21 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11499,7 +11529,7 @@
 		)
 		(uuid "0864aa60-02b6-4b26-91ea-0edf0b7aaec1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.1726 156.21 0)
+			(at 181.4126 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11945,7 +11975,7 @@
 	)
 	(global_label "1_1"
 		(shape bidirectional)
-		(at 157.48 153.67 0)
+		(at 172.72 153.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11955,7 +11985,7 @@
 		)
 		(uuid "2c8d2ed3-982f-4e29-a313-758f30b53d1a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 164.9631 153.67 0)
+			(at 180.2031 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11969,7 +11999,7 @@
 	)
 	(global_label "2_1"
 		(shape bidirectional)
-		(at 157.48 166.37 0)
+		(at 172.72 166.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11979,7 +12009,7 @@
 		)
 		(uuid "2d227443-9b07-4c9e-ac66-7d020b8f2486")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 164.9631 166.37 0)
+			(at 180.2031 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12209,7 +12239,7 @@
 	)
 	(global_label "2_21"
 		(shape bidirectional)
-		(at 157.48 168.91 0)
+		(at 172.72 168.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12219,7 +12249,7 @@
 		)
 		(uuid "4b131d5a-09fa-49bc-8122-730508971b45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.1726 168.91 0)
+			(at 181.4126 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12449,7 +12479,7 @@
 	)
 	(global_label "4_1"
 		(shape bidirectional)
-		(at 157.48 179.07 0)
+		(at 172.72 179.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12459,7 +12489,7 @@
 		)
 		(uuid "627f3cee-d0bc-4084-832e-4fdf7edfcaec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 164.9631 179.07 0)
+			(at 180.2031 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12977,7 +13007,7 @@
 	)
 	(global_label "3_1"
 		(shape bidirectional)
-		(at 157.48 190.5 0)
+		(at 172.72 191.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12987,7 +13017,7 @@
 		)
 		(uuid "95307ef8-3190-47d9-8ea7-a9a20f83a182")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 164.9631 190.5 0)
+			(at 180.2031 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13169,7 +13199,7 @@
 	)
 	(global_label "3_21"
 		(shape bidirectional)
-		(at 157.48 193.04 0)
+		(at 172.72 194.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13179,7 +13209,7 @@
 		)
 		(uuid "a6670f85-9248-4a75-b71d-33ec6fd3be9a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.1726 193.04 0)
+			(at 181.4126 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13865,7 +13895,7 @@
 	)
 	(global_label "4_21"
 		(shape bidirectional)
-		(at 157.48 181.61 0)
+		(at 172.72 181.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13875,7 +13905,7 @@
 		)
 		(uuid "ea185f76-041d-431f-b938-cba9f60cc4d5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.1726 181.61 0)
+			(at 181.4126 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16372,8 +16402,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ProPrj_Mag-easyedapro:XY308-2.54-2P")
-		(at 142.24 167.64 0)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 162.56 166.37 0)
 		(mirror y)
 		(unit 1)
 		(body_style 0)
@@ -16385,7 +16415,7 @@
 		(fields_autoplaced yes)
 		(uuid "28962e0b-c807-45a4-966f-208823c8ac87")
 		(property "Reference" "U6"
-			(at 142.24 158.75 0)
+			(at 162.56 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16395,7 +16425,7 @@
 			)
 		)
 		(property "Value" "XY308-2.54-2P"
-			(at 142.24 161.29 0)
+			(at 162.56 162.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16405,7 +16435,7 @@
 			)
 		)
 		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CONN-TH_XY308-2.54-2P"
-			(at 142.24 167.64 0)
+			(at 162.56 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16416,7 +16446,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200527/C557686_13715264167F455C722D771DE12648FD.pdf"
-			(at 142.24 167.64 0)
+			(at 162.56 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16426,8 +16456,8 @@
 				)
 			)
 		)
-		(property "Description" "Structure:1x2P Pitch:2.54mm Color:Green Mounting Style:Straight Current Rating (Max):6A Voltage Rating (Max):150V Number of Pins:2P Number of Rows:1 Wire Gauge - AWG:18~26 Wire Gauge - AWG:18~26 Wire Gauge - mm2:1 Wire Gauge - mm2:1 Number of PINs Per Row"
-			(at 142.24 167.64 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16438,7 +16468,7 @@
 			)
 		)
 		(property "Manufacturer Part" "XY308-2.54-2P"
-			(at 142.24 167.64 0)
+			(at 162.56 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16449,7 +16479,7 @@
 			)
 		)
 		(property "Manufacturer" "XINLAIYA(新莱亚)"
-			(at 142.24 167.64 0)
+			(at 162.56 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16460,7 +16490,7 @@
 			)
 		)
 		(property "Supplier Part" "C557685"
-			(at 142.24 167.64 0)
+			(at 162.56 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16471,7 +16501,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 142.24 167.64 0)
+			(at 162.56 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16482,7 +16512,7 @@
 			)
 		)
 		(property "LCSC Part Name" "2.54mm 1x2P 排数:1 每排P数:2 直插"
-			(at 142.24 167.64 0)
+			(at 162.56 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16493,7 +16523,7 @@
 			)
 		)
 		(property "Check" "false"
-			(at 142.24 167.64 0)
+			(at 162.56 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21527,8 +21557,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ProPrj_Mag-easyedapro:XY308-2.54-2P")
-		(at 142.24 191.77 0)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 162.56 191.77 0)
 		(mirror y)
 		(unit 1)
 		(body_style 0)
@@ -21540,7 +21570,7 @@
 		(fields_autoplaced yes)
 		(uuid "7a609a2f-540c-49a9-9936-a1707d45d571")
 		(property "Reference" "U8"
-			(at 142.24 182.88 0)
+			(at 162.56 185.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21550,7 +21580,7 @@
 			)
 		)
 		(property "Value" "XY308-2.54-2P"
-			(at 142.24 185.42 0)
+			(at 162.56 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21560,7 +21590,7 @@
 			)
 		)
 		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CONN-TH_XY308-2.54-2P"
-			(at 142.24 191.77 0)
+			(at 162.56 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21571,7 +21601,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200527/C557686_13715264167F455C722D771DE12648FD.pdf"
-			(at 142.24 191.77 0)
+			(at 162.56 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21581,8 +21611,8 @@
 				)
 			)
 		)
-		(property "Description" "Structure:1x2P Pitch:2.54mm Color:Green Mounting Style:Straight Current Rating (Max):6A Voltage Rating (Max):150V Number of Pins:2P Number of Rows:1 Wire Gauge - AWG:18~26 Wire Gauge - AWG:18~26 Wire Gauge - mm2:1 Wire Gauge - mm2:1 Number of PINs Per Row"
-			(at 142.24 191.77 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21593,7 +21623,7 @@
 			)
 		)
 		(property "Manufacturer Part" "XY308-2.54-2P"
-			(at 142.24 191.77 0)
+			(at 162.56 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21604,7 +21634,7 @@
 			)
 		)
 		(property "Manufacturer" "XINLAIYA(新莱亚)"
-			(at 142.24 191.77 0)
+			(at 162.56 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21615,7 +21645,7 @@
 			)
 		)
 		(property "Supplier Part" "C557685"
-			(at 142.24 191.77 0)
+			(at 162.56 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21626,7 +21656,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 142.24 191.77 0)
+			(at 162.56 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21637,7 +21667,7 @@
 			)
 		)
 		(property "LCSC Part Name" "2.54mm 1x2P 排数:1 每排P数:2 直插"
-			(at 142.24 191.77 0)
+			(at 162.56 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21648,7 +21678,7 @@
 			)
 		)
 		(property "Check" "false"
-			(at 142.24 191.77 0)
+			(at 162.56 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22427,8 +22457,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ProPrj_Mag-easyedapro:XY308-2.54-2P")
-		(at 142.24 180.34 0)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 162.56 179.07 0)
 		(mirror y)
 		(unit 1)
 		(body_style 0)
@@ -22440,7 +22470,7 @@
 		(fields_autoplaced yes)
 		(uuid "82cc509c-80a7-4699-95ac-1bb4dbc8d0e1")
 		(property "Reference" "U7"
-			(at 142.24 171.45 0)
+			(at 162.56 172.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22450,7 +22480,7 @@
 			)
 		)
 		(property "Value" "XY308-2.54-2P"
-			(at 142.24 173.99 0)
+			(at 162.56 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22460,7 +22490,7 @@
 			)
 		)
 		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CONN-TH_XY308-2.54-2P"
-			(at 142.24 180.34 0)
+			(at 162.56 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22471,7 +22501,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200527/C557686_13715264167F455C722D771DE12648FD.pdf"
-			(at 142.24 180.34 0)
+			(at 162.56 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22481,8 +22511,8 @@
 				)
 			)
 		)
-		(property "Description" "Structure:1x2P Pitch:2.54mm Color:Green Mounting Style:Straight Current Rating (Max):6A Voltage Rating (Max):150V Number of Pins:2P Number of Rows:1 Wire Gauge - AWG:18~26 Wire Gauge - AWG:18~26 Wire Gauge - mm2:1 Wire Gauge - mm2:1 Number of PINs Per Row"
-			(at 142.24 180.34 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22493,7 +22523,7 @@
 			)
 		)
 		(property "Manufacturer Part" "XY308-2.54-2P"
-			(at 142.24 180.34 0)
+			(at 162.56 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22504,7 +22534,7 @@
 			)
 		)
 		(property "Manufacturer" "XINLAIYA(新莱亚)"
-			(at 142.24 180.34 0)
+			(at 162.56 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22515,7 +22545,7 @@
 			)
 		)
 		(property "Supplier Part" "C557685"
-			(at 142.24 180.34 0)
+			(at 162.56 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22526,7 +22556,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 142.24 180.34 0)
+			(at 162.56 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22537,7 +22567,7 @@
 			)
 		)
 		(property "LCSC Part Name" "2.54mm 1x2P 排数:1 每排P数:2 直插"
-			(at 142.24 180.34 0)
+			(at 162.56 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22548,7 +22578,7 @@
 			)
 		)
 		(property "Check" "false"
-			(at 142.24 180.34 0)
+			(at 162.56 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26839,11 +26869,11 @@
 		)
 	)
 	(symbol
-		(lib_id "ProPrj_Mag-easyedapro:XY308-2.54-2P")
-		(at 142.24 154.94 0)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 162.56 153.67 0)
 		(mirror y)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -26852,7 +26882,7 @@
 		(fields_autoplaced yes)
 		(uuid "e36bf9fc-3969-44f1-8577-5bb338e4d26c")
 		(property "Reference" "U5"
-			(at 142.24 146.05 0)
+			(at 162.56 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26862,7 +26892,7 @@
 			)
 		)
 		(property "Value" "XY308-2.54-2P"
-			(at 142.24 148.59 0)
+			(at 162.56 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26872,7 +26902,7 @@
 			)
 		)
 		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CONN-TH_XY308-2.54-2P"
-			(at 142.24 154.94 0)
+			(at 162.56 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26883,7 +26913,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200527/C557686_13715264167F455C722D771DE12648FD.pdf"
-			(at 142.24 154.94 0)
+			(at 162.56 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26893,8 +26923,8 @@
 				)
 			)
 		)
-		(property "Description" "Structure:1x2P Pitch:2.54mm Color:Green Mounting Style:Straight Current Rating (Max):6A Voltage Rating (Max):150V Number of Pins:2P Number of Rows:1 Wire Gauge - AWG:18~26 Wire Gauge - AWG:18~26 Wire Gauge - mm2:1 Wire Gauge - mm2:1 Number of PINs Per Row"
-			(at 142.24 154.94 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26905,7 +26935,7 @@
 			)
 		)
 		(property "Manufacturer Part" "XY308-2.54-2P"
-			(at 142.24 154.94 0)
+			(at 162.56 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26916,7 +26946,7 @@
 			)
 		)
 		(property "Manufacturer" "XINLAIYA(新莱亚)"
-			(at 142.24 154.94 0)
+			(at 162.56 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26927,7 +26957,7 @@
 			)
 		)
 		(property "Supplier Part" "C557685"
-			(at 142.24 154.94 0)
+			(at 162.56 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26938,7 +26968,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 142.24 154.94 0)
+			(at 162.56 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26949,7 +26979,7 @@
 			)
 		)
 		(property "LCSC Part Name" "2.54mm 1x2P 排数:1 每排P数:2 直插"
-			(at 142.24 154.94 0)
+			(at 162.56 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26960,7 +26990,7 @@
 			)
 		)
 		(property "Check" "false"
-			(at 142.24 154.94 0)
+			(at 162.56 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
