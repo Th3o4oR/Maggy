@@ -1918,6 +1918,172 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:D_Zener"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_Zener"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Zener diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "D_Zener_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_Zener_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:LED"
 			(pin_numbers
 				(hide yes)
@@ -3082,184 +3248,6 @@
 					(at 5.08 0 180)
 					(length 2.54)
 					(name "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "ProPrj_Mag-easyedapro:BZT52C6V2_C2910064"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "ProPrj_Mag-easyedapro:SOD-123_L2.7-W1.6-LS3.7-RD"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20211105/0A7AF84D57D732370551C8DD7A10F563.pdf"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Diode Configuration:Single Zener Voltage (Nom):6.2V Reverse Leakage Current (Ir):3uA@4V Zener Voltage (Range):5.8V~6.6V Zener Voltage (Range):5.8V~6.6V Power Dissipation:500mW Zener Impedance (Zzt):10Ω Tolerance:- Tolerance:-"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer Part" "BZT52C6V2"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "CJ(江苏长电/长晶)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Supplier Part" "C2910064"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Supplier" "LCSC"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC Part Name" "BZT52C6V2"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "BZT52C6V2_C2910064_1_0"
-				(polyline
-					(pts
-						(xy -2.54 2.286) (xy -1.524 1.27) (xy -1.524 1.27) (xy -1.524 -1.27) (xy -1.524 -1.27) (xy -0.508 -2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.524) (xy -1.27 0) (xy -1.27 0) (xy 1.27 -1.778) (xy 1.27 -1.778) (xy 1.27 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "C"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 5.08 0 180)
-					(length 3.81)
-					(name "A"
 						(effects
 							(font
 								(size 0.0254 0.0254)
@@ -6843,7 +6831,7 @@
 	)
 	(rectangle
 		(start 93.98 143.51)
-		(end 127 195.58)
+		(end 119.38 190.5)
 		(stroke
 			(width 0)
 			(type dash)
@@ -8811,6 +8799,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 181.61) (xy 100.33 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5381b61a-edfe-49e5-88b3-d8fedcf14bd3")
+	)
+	(wire
+		(pts
 			(xy 297.18 36.83) (xy 297.18 38.1)
 		)
 		(stroke
@@ -9221,7 +9219,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 161.29) (xy 102.87 163.83)
+			(xy 100.33 161.29) (xy 100.33 163.83)
 		)
 		(stroke
 			(width 0)
@@ -10441,7 +10439,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 152.4) (xy 102.87 153.67)
+			(xy 100.33 152.4) (xy 100.33 153.67)
 		)
 		(stroke
 			(width 0)
@@ -11051,7 +11049,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 171.45) (xy 102.87 172.72)
+			(xy 100.33 171.45) (xy 100.33 173.99)
 		)
 		(stroke
 			(width 0)
@@ -20670,10 +20668,10 @@
 		)
 	)
 	(symbol
-		(lib_id "ProPrj_Mag-easyedapro:BZT52C6V2_C2910064")
-		(at 102.87 177.8 270)
+		(lib_id "Device:D_Zener")
+		(at 100.33 177.8 270)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20681,8 +20679,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a5c6e05-e033-4ff0-8cd9-36587143b019")
-		(property "Reference" "U4"
-			(at 106.68 175.8949 90)
+		(property "Reference" "D1"
+			(at 102.87 176.5299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20693,7 +20691,7 @@
 			)
 		)
 		(property "Value" "BZT52C6V2"
-			(at 106.68 178.4349 90)
+			(at 102.87 179.0699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20703,8 +20701,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:SOD-123_L2.7-W1.6-LS3.7-RD"
-			(at 102.87 177.8 0)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 100.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20715,7 +20713,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20211105/0A7AF84D57D732370551C8DD7A10F563.pdf"
-			(at 102.87 177.8 0)
+			(at 100.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20725,8 +20723,8 @@
 				)
 			)
 		)
-		(property "Description" "Diode Configuration:Single Zener Voltage (Nom):6.2V Reverse Leakage Current (Ir):3uA@4V Zener Voltage (Range):5.8V~6.6V Zener Voltage (Range):5.8V~6.6V Power Dissipation:500mW Zener Impedance (Zzt):10Ω Tolerance:- Tolerance:-"
-			(at 102.87 177.8 0)
+		(property "Description" "Zener diode"
+			(at 100.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20737,7 +20735,7 @@
 			)
 		)
 		(property "Manufacturer Part" "BZT52C6V2"
-			(at 102.87 177.8 0)
+			(at 100.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20748,7 +20746,7 @@
 			)
 		)
 		(property "Manufacturer" "CJ(江苏长电/长晶)"
-			(at 102.87 177.8 0)
+			(at 100.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20759,7 +20757,7 @@
 			)
 		)
 		(property "Supplier Part" "C2910064"
-			(at 102.87 177.8 0)
+			(at 100.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20770,7 +20768,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 102.87 177.8 0)
+			(at 100.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20781,7 +20779,7 @@
 			)
 		)
 		(property "LCSC Part Name" "BZT52C6V2"
-			(at 102.87 177.8 0)
+			(at 100.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20800,7 +20798,7 @@
 		(instances
 			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
-					(reference "U4")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -21138,7 +21136,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 102.87 182.88 0)
+		(at 100.33 182.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21149,7 +21147,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ec11b3e-78f3-4c14-a0e4-0b5405c8407c")
 		(property "Reference" "#PWR029"
-			(at 102.87 189.23 0)
+			(at 100.33 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21160,7 +21158,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 102.87 187.96 0)
+			(at 100.33 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21170,7 +21168,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 102.87 182.88 0)
+			(at 100.33 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21181,7 +21179,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 182.88 0)
+			(at 100.33 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21192,7 +21190,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 102.87 182.88 0)
+			(at 100.33 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21372,7 +21370,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 102.87 157.48 180)
+		(at 100.33 157.48 180)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -21383,7 +21381,7 @@
 		(fields_autoplaced yes)
 		(uuid "72949f5e-ae93-48e5-8dfe-1e215cd019f4")
 		(property "Reference" "R7"
-			(at 105.41 156.2099 0)
+			(at 102.87 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21394,7 +21392,7 @@
 			)
 		)
 		(property "Value" "200"
-			(at 105.41 158.7499 0)
+			(at 102.87 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21405,7 +21403,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 102.87 157.48 0)
+			(at 100.33 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21416,7 +21414,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 157.48 0)
+			(at 100.33 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21427,7 +21425,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 102.87 157.48 0)
+			(at 100.33 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21438,7 +21436,7 @@
 			)
 		)
 		(property "Check" "false"
-			(at 102.87 157.48 90)
+			(at 100.33 157.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21876,7 +21874,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 102.87 167.64 90)
+		(at 100.33 167.64 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21887,7 +21885,7 @@
 		(fields_autoplaced yes)
 		(uuid "7bab7fdc-1ab6-4e7d-8414-d769fb9bfa84")
 		(property "Reference" "LED2"
-			(at 106.68 167.9575 90)
+			(at 104.14 167.9575 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21898,7 +21896,7 @@
 			)
 		)
 		(property "Value" "Yellow-Green"
-			(at 106.68 170.4974 90)
+			(at 104.14 170.4974 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21909,7 +21907,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 102.87 167.64 0)
+			(at 100.33 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21920,7 +21918,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20221102/F362183196D461585F90F08511E6DE2E.pdf"
-			(at 102.87 167.64 0)
+			(at 100.33 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21931,7 +21929,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 102.87 167.64 0)
+			(at 100.33 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21942,7 +21940,7 @@
 			)
 		)
 		(property "Manufacturer Part" "XL-1608SYGC-06"
-			(at 117.094 155.702 0)
+			(at 114.554 155.702 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21953,7 +21951,7 @@
 			)
 		)
 		(property "Manufacturer" "XINGLIGHT(成兴光)"
-			(at 105.918 154.94 0)
+			(at 103.378 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21964,7 +21962,7 @@
 			)
 		)
 		(property "Supplier Part" "C965805"
-			(at 108.204 157.226 0)
+			(at 105.664 157.226 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21975,7 +21973,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 121.666 158.242 0)
+			(at 119.126 158.242 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21986,7 +21984,7 @@
 			)
 		)
 		(property "LCSC Part Name" "XL-1608SYGC-06"
-			(at 112.268 155.702 0)
+			(at 109.728 155.702 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21997,7 +21995,7 @@
 			)
 		)
 		(property "Check" "false"
-			(at 103.632 165.862 90)
+			(at 101.092 165.862 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22009,7 +22007,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 102.87 167.64 0)
+			(at 100.33 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27643,7 +27641,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 102.87 152.4 0)
+		(at 100.33 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27654,7 +27652,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee3b92f0-b507-4480-9e9d-cdf87552dc2a")
 		(property "Reference" "#PWR028"
-			(at 102.87 156.21 0)
+			(at 100.33 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27665,7 +27663,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 102.87 147.32 0)
+			(at 100.33 147.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27675,7 +27673,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 102.87 152.4 0)
+			(at 100.33 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27686,7 +27684,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 152.4 0)
+			(at 100.33 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27697,7 +27695,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 102.87 152.4 0)
+			(at 100.33 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
