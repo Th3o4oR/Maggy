@@ -3533,172 +3533,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "ProPrj_Mag-easyedapro:1206W3F100MT5E"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "10mΩ"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "ProPrj_Mag-easyedapro:R1206"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Type:Thick Film Resistors Resistance:10mΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:- Temperature Coefficient:- Operating Temperature Range:-55°C~+155°C Operating Temperature Range:-55°C~+155°C"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer Part" "1206W3F100MT5E"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "UNI-ROYAL(厚声)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Supplier Part" "C473031"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Supplier" "LCSC"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC Part Name" "10mΩ ±1% 333.333mW 厚膜电阻"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "1206W3F100MT5E_1_0"
-				(rectangle
-					(start -2.54 -1.27)
-					(end 2.54 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Regulator_Linear:LM1117S-3.3"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -7532,6 +7366,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 240.03) (xy 224.79 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0aa89bd6-882e-4d9f-a59a-dd570bd513c9")
+	)
+	(wire
+		(pts
 			(xy 130.81 133.35) (xy 124.46 133.35)
 		)
 		(stroke
@@ -7662,7 +7506,7 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 241.3) (xy 288.29 245.11)
+			(xy 288.29 240.03) (xy 288.29 245.11)
 		)
 		(stroke
 			(width 0)
@@ -8142,16 +7986,6 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 260.35) (xy 288.29 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34d22bef-9313-44c8-afd2-19d36f9bb023")
-	)
-	(wire
-		(pts
 			(xy 137.16 121.92) (xy 137.16 124.46)
 		)
 		(stroke
@@ -8329,16 +8163,6 @@
 			(type default)
 		)
 		(uuid "3f1f67f1-e7d1-4edc-8e8d-f32aa7f3168d")
-	)
-	(wire
-		(pts
-			(xy 224.79 241.3) (xy 224.79 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fe756ac-d603-4261-8d19-a2eb9539721a")
 	)
 	(wire
 		(pts
@@ -8532,7 +8356,7 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 274.32) (xy 288.29 278.13)
+			(xy 288.29 273.05) (xy 288.29 278.13)
 		)
 		(stroke
 			(width 0)
@@ -9622,7 +9446,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 227.33) (xy 224.79 231.14)
+			(xy 224.79 227.33) (xy 224.79 232.41)
 		)
 		(stroke
 			(width 0)
@@ -10992,7 +10816,7 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 227.33) (xy 288.29 231.14)
+			(xy 288.29 227.33) (xy 288.29 232.41)
 		)
 		(stroke
 			(width 0)
@@ -11179,6 +11003,16 @@
 			(type default)
 		)
 		(uuid "dd36fb66-6dfb-490f-a52a-647345f56c8a")
+	)
+	(wire
+		(pts
+			(xy 288.29 260.35) (xy 288.29 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd9a45a7-1388-46d8-b7cc-663e752841b8")
 	)
 	(wire
 		(pts
@@ -11372,6 +11206,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 260.35) (xy 224.79 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e69c5d1d-2525-408f-83ad-88c5c9050192")
+	)
+	(wire
+		(pts
 			(xy 307.34 243.84) (xy 307.34 242.57)
 		)
 		(stroke
@@ -11542,7 +11386,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 274.32) (xy 224.79 278.13)
+			(xy 224.79 273.05) (xy 224.79 278.13)
 		)
 		(stroke
 			(width 0)
@@ -11689,16 +11533,6 @@
 			(type default)
 		)
 		(uuid "fa1a7c79-44e4-40f2-8c4e-d71446dffd5e")
-	)
-	(wire
-		(pts
-			(xy 224.79 260.35) (xy 224.79 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa549492-08cf-4ca1-8cd6-84e1e772575d")
 	)
 	(wire
 		(pts
@@ -18714,8 +18548,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ProPrj_Mag-easyedapro:1206W3F100MT5E")
-		(at 224.79 269.24 270)
+		(lib_id "Device:R")
+		(at 224.79 269.24 0)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -18726,7 +18560,7 @@
 		(fields_autoplaced yes)
 		(uuid "41ec15ab-35e3-4449-9d55-404eac412981")
 		(property "Reference" "R16"
-			(at 227.33 267.97 90)
+			(at 227.33 267.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18737,7 +18571,7 @@
 			)
 		)
 		(property "Value" "15mΩ"
-			(at 227.33 270.5099 90)
+			(at 227.33 270.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18748,7 +18582,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 224.79 269.24 0)
+			(at 223.012 269.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18769,7 +18603,7 @@
 				)
 			)
 		)
-		(property "Description" "Type:Thick Film Resistors Resistance:10mΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:- Temperature Coefficient:- Operating Temperature Range:-55°C~+155°C Operating Temperature Range:-55°C~+155°C"
+		(property "Description" "Resistor"
 			(at 224.79 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -19747,8 +19581,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ProPrj_Mag-easyedapro:1206W3F100MT5E")
-		(at 288.29 269.24 270)
+		(lib_id "Device:R")
+		(at 288.29 269.24 0)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -19759,7 +19593,7 @@
 		(fields_autoplaced yes)
 		(uuid "56765b47-fbcb-48a2-8f8e-e1fb9f387e4e")
 		(property "Reference" "R18"
-			(at 290.83 267.97 90)
+			(at 290.83 267.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19770,7 +19604,7 @@
 			)
 		)
 		(property "Value" "15mΩ"
-			(at 290.83 270.5099 90)
+			(at 290.83 270.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19781,7 +19615,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 288.29 269.24 0)
+			(at 286.512 269.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19802,7 +19636,7 @@
 				)
 			)
 		)
-		(property "Description" "Type:Thick Film Resistors Resistance:10mΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:- Temperature Coefficient:- Operating Temperature Range:-55°C~+155°C Operating Temperature Range:-55°C~+155°C"
+		(property "Description" "Resistor"
 			(at 288.29 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -20725,10 +20559,10 @@
 		)
 	)
 	(symbol
-		(lib_id "ProPrj_Mag-easyedapro:1206W3F100MT5E")
-		(at 224.79 236.22 270)
+		(lib_id "Device:R")
+		(at 224.79 236.22 0)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20737,7 +20571,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ae1821d-bc5f-4c0a-961e-88a20fa47558")
 		(property "Reference" "R15"
-			(at 227.33 234.95 90)
+			(at 227.33 234.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20748,7 +20582,7 @@
 			)
 		)
 		(property "Value" "15mΩ"
-			(at 227.33 237.4899 90)
+			(at 227.33 237.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20759,7 +20593,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 224.79 236.22 0)
+			(at 223.012 236.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20780,7 +20614,7 @@
 				)
 			)
 		)
-		(property "Description" "Type:Thick Film Resistors Resistance:10mΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:- Temperature Coefficient:- Operating Temperature Range:-55°C~+155°C Operating Temperature Range:-55°C~+155°C"
+		(property "Description" "Resistor"
 			(at 224.79 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -23371,8 +23205,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ProPrj_Mag-easyedapro:1206W3F100MT5E")
-		(at 288.29 236.22 270)
+		(lib_id "Device:R")
+		(at 288.29 236.22 0)
 		(unit 1)
 		(body_style 0)
 		(exclude_from_sim no)
@@ -23383,7 +23217,7 @@
 		(fields_autoplaced yes)
 		(uuid "871870cf-d2c0-43ef-b7c7-fc7a92401e62")
 		(property "Reference" "R17"
-			(at 290.83 234.95 90)
+			(at 290.83 234.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23394,7 +23228,7 @@
 			)
 		)
 		(property "Value" "15mΩ"
-			(at 290.83 237.4899 90)
+			(at 290.83 237.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23405,7 +23239,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 288.29 236.22 0)
+			(at 286.512 236.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23426,7 +23260,7 @@
 				)
 			)
 		)
-		(property "Description" "Type:Thick Film Resistors Resistance:10mΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:- Temperature Coefficient:- Operating Temperature Range:-55°C~+155°C Operating Temperature Range:-55°C~+155°C"
+		(property "Description" "Resistor"
 			(at 288.29 236.22 0)
 			(hide yes)
 			(show_name no)
