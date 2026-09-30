@@ -17060,7 +17060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CONN-TH_XY308-2.54-2P"
+		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal"
 			(at 162.56 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -22175,7 +22175,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CONN-TH_XY308-2.54-2P"
+		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal"
 			(at 162.56 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -23075,7 +23075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CONN-TH_XY308-2.54-2P"
+		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal"
 			(at 162.56 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -27699,7 +27699,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ProPrj_Maggy 4.1_2025-02-07-import-fps:CONN-TH_XY308-2.54-2P"
+		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal"
 			(at 162.56 153.67 0)
 			(hide yes)
 			(show_name no)
