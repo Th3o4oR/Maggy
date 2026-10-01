@@ -7482,6 +7482,16 @@
 		)
 		(uuid "004f147d-a44f-4e98-9cd1-f1029cb216f3")
 	)
+	(text "Motor Driver +X\n"
+		(exclude_from_sim no)
+		(at 318.262 227.838 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0ece3eff-af1e-4a80-b4be-192b1849ec05")
+	)
 	(text "USB_C_POWER_DELIVERY"
 		(exclude_from_sim no)
 		(at 19.05 21.59 0)
@@ -7503,6 +7513,16 @@
 			(justify left bottom)
 		)
 		(uuid "1e4525f4-017a-4d52-adb9-b00a54b5b878")
+	)
+	(text "Motor Driver -X\n"
+		(exclude_from_sim no)
+		(at 55.626 267.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "28388225-6389-43b7-a5ce-4f113b311ad9")
 	)
 	(text "Sensors"
 		(exclude_from_sim no)
@@ -7526,6 +7546,16 @@
 		)
 		(uuid "399eb34c-d87e-4e53-bd61-dedb8cae2b12")
 	)
+	(text "Motor Driver +Y"
+		(exclude_from_sim no)
+		(at 318.516 260.604 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3c8b87ce-9625-4c9e-b79d-4656320f6528")
+	)
 	(text "Headers"
 		(exclude_from_sim no)
 		(at 224.79 133.35 0)
@@ -7537,6 +7567,16 @@
 		)
 		(uuid "8db679d6-11d8-4537-bf5a-699581a0f046")
 	)
+	(text "Motor Driver -X\n"
+		(exclude_from_sim no)
+		(at 255.016 260.858 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8e522e8c-a4a4-4ef8-b5fe-fbd230bc2ec1")
+	)
 	(text "Logic"
 		(exclude_from_sim no)
 		(at 208.28 21.59 0)
@@ -7547,6 +7587,26 @@
 			(justify left bottom)
 		)
 		(uuid "b2c04e02-d4a5-41c8-a187-a12519ff93e6")
+	)
+	(text "Motor Driver +X\n"
+		(exclude_from_sim no)
+		(at 111.506 217.424 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b96e313c-b144-4d5b-8a6f-d95b32c4d7ec")
+	)
+	(text "Motor Driver -Y"
+		(exclude_from_sim no)
+		(at 55.626 217.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bd939170-d303-4fa7-bf2e-a019f05fb0d4")
 	)
 	(text "VREF_INA"
 		(exclude_from_sim no)
@@ -7570,6 +7630,16 @@
 		)
 		(uuid "d33a938b-bc2b-4557-ac97-8210f52ad0ae")
 	)
+	(text "Motor Driver +Y"
+		(exclude_from_sim no)
+		(at 111.506 268.224 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d34cbc76-0357-4f4d-87f2-fd162093c08c")
+	)
 	(text "Current_Measurement"
 		(exclude_from_sim no)
 		(at 200.66 215.9 0)
@@ -7580,6 +7650,16 @@
 			(justify left bottom)
 		)
 		(uuid "e296beeb-fdbd-46da-982f-ed8d0a7a736f")
+	)
+	(text "Motor Driver -Y"
+		(exclude_from_sim no)
+		(at 254.762 227.584 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f62ac05e-8acd-4984-a589-83ba300826f4")
 	)
 	(text "Drivers"
 		(exclude_from_sim no)
