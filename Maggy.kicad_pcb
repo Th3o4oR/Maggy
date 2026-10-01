@@ -4531,7 +4531,7 @@
 		(layer "F.Cu")
 		(uuid "28f89f1f-8db4-4db2-8492-6eaf4f719c5b")
 		(at 220.1195 131.626 180)
-		(property "Reference" "R5"
+		(property "Reference" "R7"
 			(at -0.136 0.621 0)
 			(layer "F.SilkS")
 			(uuid "d2c84e01-60c8-4f8a-9e1e-d19dacd8184b")
@@ -7625,7 +7625,7 @@
 		(layer "F.Cu")
 		(uuid "3a8f49d9-32ae-420e-8afc-d3711be28e28")
 		(at 227.045 131.639)
-		(property "Reference" "LED3"
+		(property "Reference" "LED2"
 			(at -1.2355 -0.6685 0)
 			(layer "F.SilkS")
 			(uuid "34c8cfcf-6142-40b5-a181-37bb6df6e74b")
@@ -30555,7 +30555,7 @@
 		(layer "F.Cu")
 		(uuid "f8f16cd7-aa6a-4be1-9f76-7b6520d45230")
 		(at 220.2055 126.1805 180)
-		(property "Reference" "U27"
+		(property "Reference" "D1"
 			(at 0.6545 0.871 0)
 			(layer "F.SilkS")
 			(uuid "a6ca069a-850d-4f77-809e-05bf45d74b3f")
