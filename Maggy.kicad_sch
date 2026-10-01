@@ -18997,7 +18997,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "teensy:Teensy41"
 			(at 252.73 82.55 0)
 			(hide yes)
 			(show_name no)
