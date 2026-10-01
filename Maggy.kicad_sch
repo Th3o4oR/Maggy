@@ -7504,6 +7504,16 @@
 		)
 		(uuid "1e4525f4-017a-4d52-adb9-b00a54b5b878")
 	)
+	(text "Motor Driver -X\n"
+		(exclude_from_sim no)
+		(at 55.626 267.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "28388225-6389-43b7-a5ce-4f113b311ad9")
+	)
 	(text "Sensors"
 		(exclude_from_sim no)
 		(at 320.548 22.098 0)
@@ -7548,6 +7558,26 @@
 		)
 		(uuid "b2c04e02-d4a5-41c8-a187-a12519ff93e6")
 	)
+	(text "Motor Driver +X\n"
+		(exclude_from_sim no)
+		(at 111.506 217.424 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b96e313c-b144-4d5b-8a6f-d95b32c4d7ec")
+	)
+	(text "Motor Driver -Y"
+		(exclude_from_sim no)
+		(at 55.626 217.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bd939170-d303-4fa7-bf2e-a019f05fb0d4")
+	)
 	(text "VREF_INA"
 		(exclude_from_sim no)
 		(at 118.11 99.06 0)
@@ -7569,6 +7599,16 @@
 			(justify left bottom)
 		)
 		(uuid "d33a938b-bc2b-4557-ac97-8210f52ad0ae")
+	)
+	(text "Motor Driver +Y"
+		(exclude_from_sim no)
+		(at 111.506 268.224 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d34cbc76-0357-4f4d-87f2-fd162093c08c")
 	)
 	(text "Current_Measurement"
 		(exclude_from_sim no)
