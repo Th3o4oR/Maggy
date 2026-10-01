@@ -19598,7 +19598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-263-3_TabPin2"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 			(at 138.43 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -19620,7 +19620,7 @@
 				)
 			)
 		)
-		(property "Description" "800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-263"
+		(property "Description" "800mA Low-Dropout Linear Regulator, 3.3V fixed output, SOT-223"
 			(at 138.43 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -27549,7 +27549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-263-3_TabPin2"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 			(at 139.7 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -27571,7 +27571,7 @@
 				)
 			)
 		)
-		(property "Description" "800mA Low-Dropout Linear Regulator, 5.0V fixed output, TO-263"
+		(property "Description" "800mA Low-Dropout Linear Regulator, 5.0V fixed output, SOT-223"
 			(at 139.7 36.83 0)
 			(hide yes)
 			(show_name no)
