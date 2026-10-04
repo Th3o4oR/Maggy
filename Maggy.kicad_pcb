@@ -5608,7 +5608,7 @@
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "f598373c-d195-4d2c-bcfa-d4ba8bf4d8ba")
+			(uuid "9de47d7f-e738-492a-aea7-3a0f4644014a")
 			(effects
 				(font
 					(size 1 1)
@@ -5620,7 +5620,7 @@
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55ae4a7b-ff8e-46a9-9062-fc406f7ce3d1")
+			(uuid "baff97a0-14d8-4dfe-8b5e-82861db21321")
 			(effects
 				(font
 					(size 1 1)
@@ -5632,7 +5632,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "01d9eab6-764f-4148-93a0-168077600616")
+			(uuid "1cc0d536-426f-4a35-ae6e-61cb5ef03e23")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5642,7 +5642,7 @@
 		(property "Description" "3.2mm Mounting Hole"
 			(at -0.023 -2.219 0)
 			(layer "F.Fab")
-			(uuid "615c8694-f0cb-494b-a4de-e00357f71ef0")
+			(uuid "18571fce-8489-49bf-a203-3c62d54077eb")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -20759,7 +20759,7 @@
 		(property "Reference" "CN2"
 			(at -4.3 0 0)
 			(layer "F.SilkS")
-			(uuid "9075bef5-0663-4bbb-a24e-7074cee9451e")
+			(uuid "5e9bbb68-7a02-4228-9498-0ef173a22ff2")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -20771,7 +20771,7 @@
 			(at 6 5.7 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff089222-4b38-4b69-98e8-39c5a532a776")
+			(uuid "b585ce94-8f93-4827-a867-0400e51fa0c0")
 			(effects
 				(font
 					(size 1 1)
@@ -20783,7 +20783,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "05fa4886-c869-4ba0-b3c3-2f449adb8571")
+			(uuid "341f8af2-ba80-4bac-812a-f64cb8838886")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20794,7 +20794,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c9db1fb8-94aa-4b6b-9249-2560fa71f77d")
+			(uuid "bc6902c6-63f9-4309-a3f7-89a19a81d1e6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22369,7 +22369,7 @@
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "66636845-7033-4481-a67a-931071812161")
+			(uuid "11a8139c-9ef5-4683-a852-6184eaba6762")
 			(effects
 				(font
 					(size 1 1)
@@ -22381,7 +22381,7 @@
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5da2e44c-75a6-4549-bccb-4f36f10a160e")
+			(uuid "6d624c0b-abd3-4965-8be0-37956176c85f")
 			(effects
 				(font
 					(size 1 1)
@@ -22393,7 +22393,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "89175daf-aeab-4567-b70f-8db12ce7171d")
+			(uuid "0333c50d-163d-406b-81d5-e7c8c58cb8d4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22403,7 +22403,7 @@
 		(property "Description" "3.2mm Mounting Hole"
 			(at -0.023 -2.219 0)
 			(layer "F.Fab")
-			(uuid "cc80e9a6-5882-4b9b-8676-37f04710f290")
+			(uuid "ccb3c228-da4a-495e-b669-43566ca5fdfe")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -45971,6 +45971,40 @@
 		)
 	)
 	(zone
+		(layer "F.Cu")
+		(uuid "688202b6-72a0-451b-b930-23d1d6fa7547")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(arc
+					(start 73.123 66.819)
+					(mid 81.123 66.819)
+					(end 73.123 66.819)
+				)
+			)
+		)
+	)
+	(zone
 		(net "+3V3")
 		(layer "F.Cu")
 		(uuid "7bc1c265-52d3-4a99-8503-0c6afa5395a1")
@@ -49672,6 +49706,108 @@
 				(xy 74.603799 60.518154) (xy 74.606473 60.517861) (xy 74.609172 60.517624) (xy 74.611889 60.517444)
 				(xy 74.998026 60.500586) (xy 74.999294 60.500545) (xy 75.000759 60.500513) (xy 75.002034 60.5005)
 				(xy 224.997966 60.5005)
+			)
+		)
+	)
+	(zone
+		(layer "F.Cu")
+		(uuid "9726090a-11e7-4e29-89e2-0b388a44ce8a")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(arc
+					(start 219.087 66.819)
+					(mid 227.087 66.819)
+					(end 219.087 66.819)
+				)
+			)
+		)
+	)
+	(zone
+		(layer "F.Cu")
+		(uuid "e4374cec-d9e2-4e89-8911-a656ce90aff0")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(arc
+					(start 219.087 152.857)
+					(mid 227.087 152.857)
+					(end 219.087 152.857)
+				)
+			)
+		)
+	)
+	(zone
+		(layer "F.Cu")
+		(uuid "e8d347a9-e207-4df9-ba72-7968b0115a6c")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(arc
+					(start 73.123 152.857)
+					(mid 81.123 152.857)
+					(end 73.123 152.857)
+				)
 			)
 		)
 	)
