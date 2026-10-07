@@ -16649,7 +16649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "Magnetic_Sensors:TMAG5170_Origin_Shifted_VSSOP-8_3x3mm_P0.65mm"
 			(at 379.73 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -16661,7 +16661,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmag5170-q1.pdf"
+		(property "Datasheet" ""
 			(at 318.77 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -16672,7 +16672,7 @@
 				)
 			)
 		)
-		(property "Description" "Magnetic 3-axis linear sensor, 12-bit, Automotive, SPI Interface, VSSOP-8"
+		(property "Description" ""
 			(at 373.38 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -19309,7 +19309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "Magnetic_Sensors:TMAG5170_Origin_Shifted_VSSOP-8_3x3mm_P0.65mm"
 			(at 379.73 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -19321,7 +19321,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmag5170-q1.pdf"
+		(property "Datasheet" ""
 			(at 318.77 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -19332,7 +19332,7 @@
 				)
 			)
 		)
-		(property "Description" "Magnetic 3-axis linear sensor, 12-bit, Automotive, SPI Interface, VSSOP-8"
+		(property "Description" ""
 			(at 373.38 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -21216,7 +21216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 389.5852 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -21238,7 +21238,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 388.62 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -21640,7 +21640,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 389.5852 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -21662,7 +21662,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 388.62 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -24566,7 +24566,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 389.5852 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -24588,7 +24588,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 388.62 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -24845,7 +24845,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 389.5852 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -24867,7 +24867,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 388.62 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -25108,7 +25108,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 389.5852 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -25130,7 +25130,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 388.62 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -25685,7 +25685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "Magnetic_Sensors:TMAG5170_Origin_Shifted_VSSOP-8_3x3mm_P0.65mm"
 			(at 379.73 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -25697,7 +25697,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmag5170-q1.pdf"
+		(property "Datasheet" ""
 			(at 318.77 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -25708,7 +25708,7 @@
 				)
 			)
 		)
-		(property "Description" "Magnetic 3-axis linear sensor, 12-bit, Automotive, SPI Interface, VSSOP-8"
+		(property "Description" ""
 			(at 373.38 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -26712,7 +26712,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "Magnetic_Sensors:TMAG5170_Origin_Shifted_VSSOP-8_3x3mm_P0.65mm"
 			(at 379.73 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -26724,7 +26724,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmag5170-q1.pdf"
+		(property "Datasheet" ""
 			(at 318.77 6.35 0)
 			(hide yes)
 			(show_name no)
@@ -26735,7 +26735,7 @@
 				)
 			)
 		)
-		(property "Description" "Magnetic 3-axis linear sensor, 12-bit, Automotive, SPI Interface, VSSOP-8"
+		(property "Description" ""
 			(at 373.38 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -28444,7 +28444,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:VSSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "Magnetic_Sensors:TMAG5170_Origin_Shifted_VSSOP-8_3x3mm_P0.65mm"
 			(at 379.73 127 0)
 			(hide yes)
 			(show_name no)
@@ -28456,7 +28456,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tmag5170-q1.pdf"
+		(property "Datasheet" ""
 			(at 318.77 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -28467,7 +28467,7 @@
 				)
 			)
 		)
-		(property "Description" "Magnetic 3-axis linear sensor, 12-bit, Automotive, SPI Interface, VSSOP-8"
+		(property "Description" ""
 			(at 373.38 115.57 0)
 			(hide yes)
 			(show_name no)
