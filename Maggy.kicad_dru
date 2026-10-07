@@ -1,0 +1,5 @@
+(version 1)
+
+(rule "Allow M3 Mounting Hole Overlap"
+  (constraint courtyard_clearance (min -10mm))
+  (condition "A.Value == 'MountingHole_3.2mm_M3' && B.Value == 'MountingHole_3.2mm_M3'"))
