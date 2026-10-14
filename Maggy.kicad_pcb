@@ -10194,7 +10194,7 @@
 			(uuid "f688689f-b2f0-49ed-aca8-d8aa87ee878c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm.step"
+		(model "${KIPRJMOD}/libs/Magnetic_Sensors.pretty/SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10202,7 +10202,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -19863,7 +19863,7 @@
 			(uuid "435ccdc0-1f1d-4432-8294-43d29f1f2082")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm.step"
+		(model "${KIPRJMOD}/libs/Magnetic_Sensors.pretty/SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19871,7 +19871,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -22168,7 +22168,7 @@
 			(uuid "08da6acd-1621-43c2-bc3d-0049d8a27ffe")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm.step"
+		(model "${KIPRJMOD}/libs/Magnetic_Sensors.pretty/SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22176,7 +22176,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -24832,7 +24832,7 @@
 			(uuid "454537d4-9491-4b32-80a6-6d9e75dcfd03")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm.step"
+		(model "${KIPRJMOD}/libs/Magnetic_Sensors.pretty/SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24840,7 +24840,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
