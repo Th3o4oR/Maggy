@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.5,
-          "width": 1.5
+          "height": 2.9,
+          "width": 1.9
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -90,7 +90,7 @@
           ""
         ],
         [
-          "silk_overlap|185261904|153406457|55ca70a8-8b94-4895-a909-dbf5907d6052|58d78981-374f-49e4-80f1-7855bedbdea1",
+          "silk_overlap|185161017|153284218|55ca70a8-8b94-4895-a909-dbf5907d6052|58d78981-374f-49e4-80f1-7855bedbdea1",
           ""
         ],
         [

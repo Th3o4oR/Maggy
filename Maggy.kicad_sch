@@ -18050,7 +18050,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm"
+		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias"
 			(at 101.6 297.18 0)
 			(hide yes)
 			(show_name no)
@@ -18061,7 +18061,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.allegromicro.com/~/media/Files/Datasheets/A4950-Datasheet.ashx"
 			(at 93.98 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -18072,7 +18072,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Full-Bridge, DMOS PWM, Motor Driver, 40V, 3.5A, -40 to +85C"
 			(at 101.6 283.21 0)
 			(hide yes)
 			(show_name no)
