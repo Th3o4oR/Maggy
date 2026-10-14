@@ -3181,15 +3181,15 @@
 			(uuid "292b9d85-46ce-4ef2-935f-162edd7c5eae")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal.step"
+		(model "${KIPRJMOD}/libs/terminal-blocks.pretty/CONN-TH_XY308-2.54-2P.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.27 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -13978,15 +13978,15 @@
 			(uuid "1d3b9b14-d074-4f2d-a764-a8881ace7409")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal.step"
+		(model "${KIPRJMOD}/libs/terminal-blocks.pretty/CONN-TH_XY308-2.54-2P.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.27 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -18592,15 +18592,15 @@
 			(uuid "673fc9f8-d7ee-4970-86d7-4c170b9a3195")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal.step"
+		(model "${KIPRJMOD}/libs/terminal-blocks.pretty/CONN-TH_XY308-2.54-2P.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.27 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -26278,15 +26278,15 @@
 			(uuid "ec20b8d2-b9ef-4d02-8b2c-ac1a701ac6d2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal.step"
+		(model "${KIPRJMOD}/libs/terminal-blocks.pretty/CONN-TH_XY308-2.54-2P.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.27 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
