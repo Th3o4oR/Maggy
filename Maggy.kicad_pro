@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.1015,
+          "min_clearance": 0.1,
           "min_island_area": 10.0,
           "min_thickness": 0.127,
           "pad_connection": 1,
@@ -90,7 +90,7 @@
           ""
         ],
         [
-          "silk_overlap|184101710|154472487|55ca70a8-8b94-4895-a909-dbf5907d6052|58d78981-374f-49e4-80f1-7855bedbdea1",
+          "silk_overlap|183779365|154588730|55ca70a8-8b94-4895-a909-dbf5907d6052|58d78981-374f-49e4-80f1-7855bedbdea1",
           ""
         ],
         [
