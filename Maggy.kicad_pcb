@@ -13411,9 +13411,9 @@
 			(uuid "c2010aa0-5507-4354-a0d9-5b6f18fa9167")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_USER_DIR}/teensy.pretty/Teensy_4.1_Assembly.STEP"
+		(model "${KIPRJMOD}/libs/teensy.pretty/Teensy_4.1_Assembly.STEP"
 			(offset
-				(xyz 0 0 0.762)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
