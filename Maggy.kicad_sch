@@ -6679,7 +6679,7 @@
 	)
 	(rectangle
 		(start 17.78 22.86)
-		(end 95.25 131.445)
+		(end 99.695 132.715)
 		(stroke
 			(width 0)
 			(type dash)
@@ -12112,6 +12112,190 @@
 			(type default)
 		)
 		(uuid "ffa21a4f-2c2b-4ec2-bcc8-7eb480110de6")
+	)
+	(table
+		(column_count 2)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 9.525 17.78)
+		(row_heights 2.54 2.54 2.54 2.54 2.54)
+		(uuid "7b1a7fa4-6274-4614-8e33-40d59e45542a")
+		(cells
+			(table_cell "Rset"
+				(exclude_from_sim no)
+				(at 69.85 114.3 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "4f378bb0-e47a-4d62-989a-0c5a55b6918b")
+			)
+			(table_cell "Request-voltage"
+				(exclude_from_sim no)
+				(at 79.375 114.3 0)
+				(size 17.78 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "3b64876d-1829-4ef5-a133-33f54eae9a62")
+			)
+			(table_cell "6.8 kΩ"
+				(exclude_from_sim no)
+				(at 69.85 116.84 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "93138415-1568-4dc0-8d66-3cdcdf62e9d3")
+			)
+			(table_cell " 9V"
+				(exclude_from_sim no)
+				(at 79.375 116.84 0)
+				(size 17.78 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "c53b7d8d-398c-480a-9360-6f83bb7f7089")
+			)
+			(table_cell "24 kΩ"
+				(exclude_from_sim no)
+				(at 69.85 119.38 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "0dc84704-5de0-4739-89ee-695ea4e31aa6")
+			)
+			(table_cell " 12V"
+				(exclude_from_sim no)
+				(at 79.375 119.38 0)
+				(size 17.78 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "449e37da-17f6-4cd5-ba92-3fced65c0bd3")
+			)
+			(table_cell "56 kΩ"
+				(exclude_from_sim no)
+				(at 69.85 121.92 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "3b06b341-3095-47c2-8987-b0fff0eb34ae")
+			)
+			(table_cell "15V"
+				(exclude_from_sim no)
+				(at 79.375 121.92 0)
+				(size 17.78 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "3fadd94f-b3af-4d3f-a2f0-afb472a81fec")
+			)
+			(table_cell "NC"
+				(exclude_from_sim no)
+				(at 69.85 124.46 0)
+				(size 9.525 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "593be516-4943-4411-8118-1421cf76c57c")
+			)
+			(table_cell "20V"
+				(exclude_from_sim no)
+				(at 79.375 124.46 0)
+				(size 17.78 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+				(uuid "b54077c9-5316-4ce1-9e79-7408dcbacbc6")
+			)
+		)
 	)
 	(global_label "CUR_SOL3"
 		(shape input)
@@ -28230,13 +28414,12 @@
 		(lib_id "Device:R")
 		(at 62.23 116.84 0)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e726b7a1-8f42-4ef0-b400-16bc1b3f3bf0")
 		(property "Reference" "R3"
 			(at 59.69 118.1101 0)
@@ -28282,9 +28465,8 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 62.23 116.84 0)
-			(hide yes)
+		(property "Description" "Rset"
+			(at 66.04 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
