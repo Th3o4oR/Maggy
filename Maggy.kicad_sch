@@ -21836,7 +21836,7 @@
 		(lib_id "Device:R")
 		(at 100.33 157.48 180)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -21855,7 +21855,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "200"
+		(property "Value" "750"
 			(at 102.87 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
