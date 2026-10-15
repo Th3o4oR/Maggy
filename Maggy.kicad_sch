@@ -6679,7 +6679,7 @@
 	)
 	(rectangle
 		(start 17.78 22.86)
-		(end 90.805 131.445)
+		(end 95.25 131.445)
 		(stroke
 			(width 0)
 			(type dash)
@@ -6715,7 +6715,7 @@
 	)
 	(rectangle
 		(start 93.98 143.51)
-		(end 119.38 190.5)
+		(end 123.825 190.5)
 		(stroke
 			(width 0)
 			(type dash)
@@ -17144,7 +17144,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Yellow-Green"
+		(property "Value" "XL-1608SYGC-06"
 			(at 173.99 79.0574 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18798,7 +18798,7 @@
 		(lib_id "Device:R")
 		(at 162.56 82.55 90)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -18816,7 +18816,7 @@
 				)
 			)
 		)
-		(property "Value" "56"
+		(property "Value" "220"
 			(at 162.56 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19076,7 +19076,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Yellow-Green"
+		(property "Value" "XL-1608SYGC-06"
 			(at 76.2 103.1874 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19098,7 +19098,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20221102/F362183196D461585F90F08511E6DE2E.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C965805.pdf"
 			(at 72.39 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -19633,7 +19633,7 @@
 		(lib_id "Device:R")
 		(at 72.39 91.44 180)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -19652,7 +19652,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "56"
+		(property "Value" "220"
 			(at 74.93 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21992,7 +21992,7 @@
 		(lib_id "Device:R")
 		(at 162.56 48.26 90)
 		(unit 1)
-		(body_style 0)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -22010,7 +22010,7 @@
 				)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "470"
 			(at 162.56 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22555,7 +22555,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Yellow-Green"
+		(property "Value" "XL-1608SYGC-06"
 			(at 104.14 170.4974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22577,7 +22577,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20221102/F362183196D461585F90F08511E6DE2E.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C965805.pdf"
 			(at 100.33 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -22935,7 +22935,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm"
+		(property "Footprint" "Package_SO:SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm_ThermalVias"
 			(at 43.18 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -24148,84 +24148,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 53.34 93.98 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9624019f-028b-4d8c-8087-302728b062cc")
-		(property "Reference" "#PWR016"
-			(at 53.34 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 53.34 88.9 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 53.34 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 53.34 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "674a108d-8a15-42ac-b6c9-80a2c644a1a5")
-		)
-		(instances
-			(project "Maggy"
-				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
-					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 149.86 76.2 180)
 		(unit 1)
@@ -25270,7 +25192,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Yellow-Green"
+		(property "Value" "XL-1608SYGC-06"
 			(at 173.99 44.7674 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25292,7 +25214,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20221102/D860AFDD1CDB02C5A8064103A32707E2.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C965805.pdf"
 			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -25314,7 +25236,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "XL-1608SURC-06"
+		(property "Manufacturer Part" "XL-1608SYGC-06"
 			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -25336,7 +25258,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C965799"
+		(property "Supplier Part" "C965805"
 			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -25358,7 +25280,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "XL-1608SURC-06"
+		(property "LCSC Part Name" "XL-1608SYGC-06"
 			(at 170.18 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -25401,6 +25323,84 @@
 			(project "Maggy"
 				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
 					(reference "LED3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 53.34 93.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "afae7736-2bea-48fa-a81e-6ff96320d256")
+		(property "Reference" "#PWR06"
+			(at 53.34 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 53.34 88.9 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 53.34 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6a6bffc4-7968-4880-b14d-4f1cbfe2727d")
+		)
+		(instances
+			(project "Maggy"
+				(path "/52283d6a-1d9f-44e8-81a2-e61315819c23"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
