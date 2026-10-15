@@ -6666,8 +6666,8 @@
 		(uuid "7a4ad336-929f-4be7-b85b-9b50a253e589")
 	)
 	(rectangle
-		(start 17.78 199.39)
-		(end 136.525 302.895)
+		(start 17.78 198.755)
+		(end 146.685 302.895)
 		(stroke
 			(width 0)
 			(type dash)
@@ -6905,6 +6905,17 @@
 			(justify left bottom)
 		)
 		(uuid "e296beeb-fdbd-46da-982f-ed8d0a7a736f")
+	)
+	(text "_S: Directly to the Solenoid\n_C: Measured by the Current sense"
+		(exclude_from_sim no)
+		(at 109.728 204.724 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f467e084-d89c-463b-b1cb-4bd6e8184420")
 	)
 	(text "Motor Driver -Y"
 		(exclude_from_sim no)
@@ -12321,7 +12332,7 @@
 			)
 		)
 	)
-	(global_label "3_21"
+	(global_label "+Y2_S"
 		(shape bidirectional)
 		(at 285.75 260.35 180)
 		(fields_autoplaced yes)
@@ -12369,7 +12380,7 @@
 			)
 		)
 	)
-	(global_label "1_21"
+	(global_label "-Y2_S"
 		(shape bidirectional)
 		(at 172.72 156.21 0)
 		(fields_autoplaced yes)
@@ -12441,7 +12452,7 @@
 			)
 		)
 	)
-	(global_label "1_1"
+	(global_label "-Y1_S"
 		(shape bidirectional)
 		(at 58.42 227.33 0)
 		(fields_autoplaced yes)
@@ -12465,7 +12476,7 @@
 			)
 		)
 	)
-	(global_label "HB_1A"
+	(global_label "+X1"
 		(shape output)
 		(at 233.68 45.72 180)
 		(fields_autoplaced yes)
@@ -12537,7 +12548,7 @@
 			)
 		)
 	)
-	(global_label "4_1"
+	(global_label "-X1_S"
 		(shape bidirectional)
 		(at 58.42 278.13 0)
 		(fields_autoplaced yes)
@@ -12561,7 +12572,7 @@
 			)
 		)
 	)
-	(global_label "HB_2A"
+	(global_label "+Y1"
 		(shape input)
 		(at 88.9 278.13 180)
 		(fields_autoplaced yes)
@@ -12609,7 +12620,7 @@
 			)
 		)
 	)
-	(global_label "HB_0A"
+	(global_label "-Y1"
 		(shape input)
 		(at 33.02 227.33 180)
 		(fields_autoplaced yes)
@@ -12633,7 +12644,7 @@
 			)
 		)
 	)
-	(global_label "1_22"
+	(global_label "-Y2_C"
 		(shape bidirectional)
 		(at 58.42 229.87 0)
 		(fields_autoplaced yes)
@@ -12705,7 +12716,7 @@
 			)
 		)
 	)
-	(global_label "4_22"
+	(global_label "-X2_C"
 		(shape bidirectional)
 		(at 222.25 278.13 180)
 		(fields_autoplaced yes)
@@ -12729,7 +12740,7 @@
 			)
 		)
 	)
-	(global_label "1_1"
+	(global_label "-Y1_S"
 		(shape bidirectional)
 		(at 172.72 153.67 0)
 		(fields_autoplaced yes)
@@ -12753,7 +12764,7 @@
 			)
 		)
 	)
-	(global_label "2_1"
+	(global_label "+X1_S"
 		(shape bidirectional)
 		(at 172.72 166.37 0)
 		(fields_autoplaced yes)
@@ -12777,7 +12788,7 @@
 			)
 		)
 	)
-	(global_label "HB_2B"
+	(global_label "+Y2"
 		(shape input)
 		(at 88.9 280.67 180)
 		(fields_autoplaced yes)
@@ -12801,7 +12812,7 @@
 			)
 		)
 	)
-	(global_label "1_21"
+	(global_label "-Y2_S"
 		(shape bidirectional)
 		(at 222.25 227.33 180)
 		(fields_autoplaced yes)
@@ -12897,7 +12908,7 @@
 			)
 		)
 	)
-	(global_label "HB_1A"
+	(global_label "+X1"
 		(shape input)
 		(at 88.9 227.33 180)
 		(fields_autoplaced yes)
@@ -12945,7 +12956,7 @@
 			)
 		)
 	)
-	(global_label "HB_2B"
+	(global_label "+Y2"
 		(shape output)
 		(at 233.68 63.5 180)
 		(fields_autoplaced yes)
@@ -13017,7 +13028,7 @@
 			)
 		)
 	)
-	(global_label "2_21"
+	(global_label "+X2_S"
 		(shape bidirectional)
 		(at 172.72 168.91 0)
 		(fields_autoplaced yes)
@@ -13041,7 +13052,7 @@
 			)
 		)
 	)
-	(global_label "HB_0B"
+	(global_label "-Y2"
 		(shape input)
 		(at 33.02 229.87 180)
 		(fields_autoplaced yes)
@@ -13065,7 +13076,7 @@
 			)
 		)
 	)
-	(global_label "2_22"
+	(global_label "+X2_C"
 		(shape bidirectional)
 		(at 114.3 229.87 0)
 		(fields_autoplaced yes)
@@ -13137,7 +13148,7 @@
 			)
 		)
 	)
-	(global_label "4_22"
+	(global_label "-X2_C"
 		(shape bidirectional)
 		(at 58.42 280.67 0)
 		(fields_autoplaced yes)
@@ -13209,7 +13220,7 @@
 			)
 		)
 	)
-	(global_label "4_1"
+	(global_label "-X1_S"
 		(shape bidirectional)
 		(at 172.72 179.07 0)
 		(fields_autoplaced yes)
@@ -13281,7 +13292,7 @@
 			)
 		)
 	)
-	(global_label "HB_0A"
+	(global_label "-Y1"
 		(shape output)
 		(at 233.68 50.8 180)
 		(fields_autoplaced yes)
@@ -13305,7 +13316,7 @@
 			)
 		)
 	)
-	(global_label "HB_0B"
+	(global_label "-Y2"
 		(shape output)
 		(at 233.68 53.34 180)
 		(fields_autoplaced yes)
@@ -13497,7 +13508,7 @@
 			)
 		)
 	)
-	(global_label "3_1"
+	(global_label "+Y1_S"
 		(shape bidirectional)
 		(at 172.72 191.77 0)
 		(fields_autoplaced yes)
@@ -13521,7 +13532,7 @@
 			)
 		)
 	)
-	(global_label "1_22"
+	(global_label "-Y2_C"
 		(shape bidirectional)
 		(at 222.25 245.11 180)
 		(fields_autoplaced yes)
@@ -13545,7 +13556,7 @@
 			)
 		)
 	)
-	(global_label "HB_3A"
+	(global_label "-X1"
 		(shape output)
 		(at 233.68 55.88 180)
 		(fields_autoplaced yes)
@@ -13569,7 +13580,7 @@
 			)
 		)
 	)
-	(global_label "HB_2A"
+	(global_label "+Y1"
 		(shape output)
 		(at 233.68 60.96 180)
 		(fields_autoplaced yes)
@@ -13593,7 +13604,7 @@
 			)
 		)
 	)
-	(global_label "HB_1B"
+	(global_label "+X2"
 		(shape output)
 		(at 233.68 48.26 180)
 		(fields_autoplaced yes)
@@ -13617,7 +13628,7 @@
 			)
 		)
 	)
-	(global_label "3_21"
+	(global_label "+Y2_S"
 		(shape bidirectional)
 		(at 172.72 194.31 0)
 		(fields_autoplaced yes)
@@ -13713,7 +13724,7 @@
 			)
 		)
 	)
-	(global_label "HB_3B"
+	(global_label "-X2"
 		(shape output)
 		(at 233.68 58.42 180)
 		(fields_autoplaced yes)
@@ -13785,7 +13796,7 @@
 			)
 		)
 	)
-	(global_label "HB_3A"
+	(global_label "-X1"
 		(shape input)
 		(at 33.02 278.13 180)
 		(fields_autoplaced yes)
@@ -13809,7 +13820,7 @@
 			)
 		)
 	)
-	(global_label "HB_3B"
+	(global_label "-X2"
 		(shape input)
 		(at 33.02 280.67 180)
 		(fields_autoplaced yes)
@@ -13857,7 +13868,7 @@
 			)
 		)
 	)
-	(global_label "2_21"
+	(global_label "+X2_S"
 		(shape bidirectional)
 		(at 285.75 227.33 180)
 		(fields_autoplaced yes)
@@ -13905,7 +13916,7 @@
 			)
 		)
 	)
-	(global_label "HB_1B"
+	(global_label "+X2"
 		(shape input)
 		(at 88.9 229.87 180)
 		(fields_autoplaced yes)
@@ -14001,7 +14012,7 @@
 			)
 		)
 	)
-	(global_label "3_1"
+	(global_label "+Y1_S"
 		(shape bidirectional)
 		(at 114.3 278.13 0)
 		(fields_autoplaced yes)
@@ -14049,7 +14060,7 @@
 			)
 		)
 	)
-	(global_label "2_22"
+	(global_label "+X2_C"
 		(shape bidirectional)
 		(at 285.75 245.11 180)
 		(fields_autoplaced yes)
@@ -14073,7 +14084,7 @@
 			)
 		)
 	)
-	(global_label "3_22"
+	(global_label "+Y2_C"
 		(shape bidirectional)
 		(at 285.75 278.13 180)
 		(fields_autoplaced yes)
@@ -14097,7 +14108,7 @@
 			)
 		)
 	)
-	(global_label "2_1"
+	(global_label "+X1_S"
 		(shape bidirectional)
 		(at 114.3 227.33 0)
 		(fields_autoplaced yes)
@@ -14217,7 +14228,7 @@
 			)
 		)
 	)
-	(global_label "4_21"
+	(global_label "-X2_S"
 		(shape bidirectional)
 		(at 222.25 260.35 180)
 		(fields_autoplaced yes)
@@ -14241,7 +14252,7 @@
 			)
 		)
 	)
-	(global_label "4_21"
+	(global_label "-X2_S"
 		(shape bidirectional)
 		(at 172.72 181.61 0)
 		(fields_autoplaced yes)
@@ -14313,7 +14324,7 @@
 			)
 		)
 	)
-	(global_label "3_22"
+	(global_label "+Y2_C"
 		(shape bidirectional)
 		(at 114.3 280.67 0)
 		(fields_autoplaced yes)
