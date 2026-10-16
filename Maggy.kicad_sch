@@ -16978,10 +16978,9 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(in_pos_files no)
+		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "236d41e1-b5e3-41ec-8f1c-9357a023b9da")
 		(property "Reference" "J6"
 			(at 271.78 162.5599 0)
@@ -16994,7 +16993,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "X6511FV-24-C85D32"
+		(property "Value" ""
 			(at 271.78 165.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17005,7 +17004,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
+		(property "Footprint" "teensy:PinHeader_1x24_P2.54mm_Vertical_NO_PADS"
 			(at 273.05 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -17027,7 +17026,51 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x24, script generated"
+		(property "Description" ""
+			(at 273.05 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "X6511FV-24-C85D32"
+			(at 258.318 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 546.1 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part" "C2883741"
+			(at 546.1 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
 			(at 273.05 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -26596,8 +26639,8 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(in_pos_files no)
+		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1f0b976-0c89-476c-87e4-ae1892c8fb94")
@@ -26612,7 +26655,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "X6511FV-24-C85D32"
+		(property "Value" ""
 			(at 218.44 165.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26623,7 +26666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
+		(property "Footprint" "teensy:PinHeader_1x24_P2.54mm_Vertical_NO_PADS"
 			(at 217.17 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -26645,7 +26688,51 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x24, script generated"
+		(property "Description" ""
+			(at 217.17 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part" "C2883741"
+			(at 217.17 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 217.17 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "X6511FV-24-C85D32"
+			(at 217.17 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
 			(at 217.17 162.56 0)
 			(hide yes)
 			(show_name no)

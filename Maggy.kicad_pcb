@@ -94,8 +94,8 @@
 		(filling no)
 		(aux_axis_origin 70 160)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_5555555d_57555771)
-			(plot_on_all_layers_selection 0x00000000_00000000_00000008_00000020)
+			(layerselection 0x00000000_00000000_5555555d_57555ff5)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000008_000000a0)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
@@ -123,7 +123,7 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 4)
+			(outputformat 1)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
@@ -2724,6 +2724,187 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "teensy:PinHeader_1x24_P2.54mm_Vertical_NO_PADS"
+		(layer "F.Cu")
+		(uuid "1592ab01-4967-45ce-8d42-ed3ade5f300f")
+		(at 209.42 62.69)
+		(descr "Through hole straight pin header, 1x24, 2.54mm pitch, single row")
+		(tags "Through hole pin header THT 1x24 2.54mm single row")
+		(property "Reference" "J6"
+			(at 2.28 -0.74 0)
+			(layer "F.SilkS")
+			(uuid "e702894b-7266-4200-9ff7-1e121177c5aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 0 60.8 0)
+			(layer "F.Fab")
+			(uuid "94f42bed-bbc5-4034-bf30-f06c5f21fc12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "73731480-136f-4435-9d44-bad62e6c41aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "73a8e5c9-db57-4d93-a373-2f9e6f32a229")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "591136ed-3f77-420e-87f7-b50c28a6bd09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part" "X6511FV-24-C85D32"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9d85c7f-e4cf-4941-9425-05b88eec1baf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "539e4de0-faa7-401f-bef5-b3bafd4b5c2e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Supplier Part" "C2883741"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "11960ff9-b460-4157-ad29-be30d1617f60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/236d41e1-b5e3-41ec-8f1c-9357a023b9da")
+		(sheetname "/")
+		(sheetfile "Maggy.kicad_sch")
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -1.27 -0.635)
+			(end -0.635 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "410143a6-8d7e-443a-9b13-a2351675ae7f")
+		)
+		(fp_line
+			(start -1.27 59.69)
+			(end -1.27 -0.635)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ed6b3596-b408-4720-ad2e-ddf93add2d20")
+		)
+		(fp_line
+			(start -0.635 -1.27)
+			(end 1.27 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "37e90ea1-261f-4fb9-8753-2543b307d189")
+		)
+		(fp_line
+			(start 1.27 -1.27)
+			(end 1.27 59.69)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "739fc6ae-b9a0-445b-b564-399fb940ca62")
+		)
+		(fp_line
+			(start 1.27 59.69)
+			(end -1.27 59.69)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "fc815b3a-3611-404a-b3e8-730901b4d52b")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 29.21 90)
+			(layer "F.Fab")
+			(uuid "73371fa3-b747-40a0-b7c2-0bf40cbe6bc6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x24_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13064,7 +13245,7 @@
 			(at 0 -10.16 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "86ce07c6-46e8-48c9-9b45-5a086fe74477")
+			(uuid "2f4223c2-3f92-46f3-bede-10141aa0695a")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -13076,7 +13257,7 @@
 			(at 0 10.16 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3c87baf1-742f-4825-a6bf-5e295f9fbd73")
+			(uuid "1c9838b8-1e14-4f76-96c9-e923800ba8a2")
 			(effects
 				(font
 					(size 1 1)
@@ -13088,7 +13269,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e660baab-9e41-42ad-9f55-43167ae4b56a")
+			(uuid "ede77fbb-0748-4cea-8707-f69c328ecfb2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13099,7 +13280,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7a08060-a063-4883-b789-3e547cbe9763")
+			(uuid "b3d50e3e-5210-43c4-b251-6999466dc965")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13733,13 +13914,13 @@
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/libs/teensy.pretty/Teensy_4.1_Assembly.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 8.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -21893,6 +22074,187 @@
 			)
 		)
 	)
+	(footprint "teensy:PinHeader_1x24_P2.54mm_Vertical_NO_PADS"
+		(layer "F.Cu")
+		(uuid "b4536348-22e4-48a0-82c2-c88bfa80ac07")
+		(at 194.18 62.69)
+		(descr "Through hole straight pin header, 1x24, 2.54mm pitch, single row")
+		(tags "Through hole pin header THT 1x24 2.54mm single row")
+		(property "Reference" "J5"
+			(at -2.28 -0.74 0)
+			(layer "F.SilkS")
+			(uuid "2aa26cf7-c273-4543-ad01-c9e9524d5124")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 0 60.8 0)
+			(layer "F.Fab")
+			(uuid "83e7888f-6077-4d9a-98d4-ce9d9cff8465")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05a7fd69-3e41-44d4-b80d-c272d8913a3b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "439853c7-c18e-4515-aa2a-d066c1f0c069")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1ccb651b-f85b-4dc7-be75-ec105e6a241c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Supplier Part" "C2883741"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2173181-c6e1-43c9-830b-02d53aeeb54d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8cfad4d1-a8ff-4705-8600-b66b0bdbb1e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part" "X6511FV-24-C85D32"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c40d00b-6ae2-45a7-985e-f24495710973")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/c1f0b976-0c89-476c-87e4-ae1892c8fb94")
+		(sheetname "/")
+		(sheetfile "Maggy.kicad_sch")
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -1.27 -0.635)
+			(end -0.635 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3117a8d3-d23d-4035-aa3c-2f40400e4f79")
+		)
+		(fp_line
+			(start -1.27 59.69)
+			(end -1.27 -0.635)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d633b764-e8d5-4d39-a2a4-a944a0c7ca7d")
+		)
+		(fp_line
+			(start -0.635 -1.27)
+			(end 1.27 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "22b5a90e-6438-4fba-b866-0fbb4e5f3084")
+		)
+		(fp_line
+			(start 1.27 -1.27)
+			(end 1.27 59.69)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f1305075-456b-4043-b1b5-837cbc6af408")
+		)
+		(fp_line
+			(start 1.27 59.69)
+			(end -1.27 59.69)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "058950d9-2896-41a9-9a94-3bb7261d0cbe")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 29.21 90)
+			(layer "F.Fab")
+			(uuid "c7347051-0490-4526-8c13-6377af0c853b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x24_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "TestPoint:TestPoint_Pad_1.5x1.5mm"
 		(layer "F.Cu")
 		(uuid "b5204e61-628d-478d-a21c-4b7cb1ddf957")
@@ -27585,7 +27947,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
-		(path "/025a7b4e-1725-4682-8bfb-97a0ada753bb")
+		(path "/c70d264c-f149-447a-9191-63a5c4564afd")
 		(sheetname "/")
 		(sheetfile "Maggy.kicad_sch")
 		(units
@@ -56387,6 +56749,12 @@
 				(xy 183.890476 153.568088) (xy 183.6 153.568088) (xy 183.6 153.0625) (xy 183.618306 153.018306)
 				(xy 183.6625 153) (xy 203.5375 153)
 			)
+		)
+	)
+	(group ""
+		(uuid "8f6fc02e-2c5d-4c0c-a982-dbdcf297c4ec")
+		(members "1592ab01-4967-45ce-8d42-ed3ade5f300f" "70c6fd94-b565-4801-ae6e-e16048de2e3b"
+			"b4536348-22e4-48a0-82c2-c88bfa80ac07"
 		)
 	)
 	(embedded_fonts no)
