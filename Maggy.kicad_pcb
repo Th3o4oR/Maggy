@@ -3633,7 +3633,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "1206W3F100MT5E"
+		(property "Manufacturer Part" "1206W3F150MT5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3646,7 +3646,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(厚声)"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3659,7 +3659,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C473031"
+		(property "Supplier Part" "C474317"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3685,7 +3685,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "10mΩ ±1% 333.333mW 厚膜电阻"
+		(property "LCSC Part Name" "RES 15mΩ ±1% 333mW 1206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11480,7 +11480,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "1206W3F100MT5E"
+		(property "Manufacturer Part" "1206W3F150MT5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11493,7 +11493,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(厚声)"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11506,7 +11506,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C473031"
+		(property "Supplier Part" "C474317"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11532,7 +11532,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "10mΩ ±1% 333.333mW 厚膜电阻"
+		(property "LCSC Part Name" "RES 15mΩ ±1% 333mW 1206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16135,7 +16135,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "1206W3F100MT5E"
+		(property "Manufacturer Part" "1206W3F150MT5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16148,7 +16148,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(厚声)"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16161,7 +16161,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C473031"
+		(property "Supplier Part" "C474317"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16187,7 +16187,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "10mΩ ±1% 333.333mW 厚膜电阻"
+		(property "LCSC Part Name" "RES 15mΩ ±1% 333mW 1206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16862,7 +16862,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "1206W3F100MT5E"
+		(property "Manufacturer Part" "1206W3F150MT5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16875,7 +16875,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(厚声)"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16888,7 +16888,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C473031"
+		(property "Supplier Part" "C474317"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16914,7 +16914,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "10mΩ ±1% 333.333mW 厚膜电阻"
+		(property "LCSC Part Name" "RES 15mΩ ±1% 333mW 1206"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")

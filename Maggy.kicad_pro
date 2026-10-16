@@ -710,7 +710,7 @@
           "group_by": true,
           "label": "Exclude from Position Files",
           "name": "${EXCLUDE_FROM_POS_FILES}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -782,6 +782,24 @@
           "group_by": false,
           "label": "Check",
           "name": "Check",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KiLib_Generator",
+          "name": "KiLib_Generator",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLC_3DModel_Q",
+          "name": "JLC_3DModel_Q",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLC_3D_Size",
+          "name": "JLC_3D_Size",
           "show": false
         }
       ],
