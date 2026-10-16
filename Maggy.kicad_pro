@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 2.9,
-          "width": 1.9
+          "drill": 0.5,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -90,7 +90,7 @@
           ""
         ],
         [
-          "silk_overlap|188231410|154349512|55ca70a8-8b94-4895-a909-dbf5907d6052|58d78981-374f-49e4-80f1-7855bedbdea1",
+          "silk_overlap|186197170|153945328|55ca70a8-8b94-4895-a909-dbf5907d6052|58d78981-374f-49e4-80f1-7855bedbdea1",
           ""
         ],
         [
@@ -293,7 +293,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "4.4"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -710,7 +710,7 @@
           "group_by": true,
           "label": "Exclude from Position Files",
           "name": "${EXCLUDE_FROM_POS_FILES}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -782,6 +782,24 @@
           "group_by": false,
           "label": "Check",
           "name": "Check",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KiLib_Generator",
+          "name": "KiLib_Generator",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLC_3DModel_Q",
+          "name": "JLC_3DModel_Q",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLC_3D_Size",
+          "name": "JLC_3D_Size",
           "show": false
         }
       ],
