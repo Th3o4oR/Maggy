@@ -4,6 +4,16 @@
 	(generator_version "10.0")
 	(uuid "52283d6a-1d9f-44e8-81a2-e61315819c23")
 	(paper "A3")
+	(title_block
+		(title "Maggy Main Board")
+		(date "2026-10-16")
+		(rev "4.4")
+		(company "NTNU")
+		(comment 1 "H. A. Engmark")
+		(comment 2 "A. Morselli")
+		(comment 3 "R. Antonello")
+		(comment 4 "T. Johansson")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Current:INA199xxDCK"
 			(pin_names
