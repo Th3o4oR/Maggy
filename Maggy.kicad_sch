@@ -15060,6 +15060,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C27204"
+			(at 326.39 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "f42109bb-a37e-4e72-b752-ba6c9e61bc0f")
 		)
@@ -15224,6 +15235,17 @@
 			)
 		)
 		(property "KiLib_Generator" "package/gullwing"
+			(at 326.39 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C27204"
 			(at 326.39 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -15435,6 +15457,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 20.32 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e355ce78-dec1-4eaf-a1ef-ed45b69b83a4")
 		)
@@ -15592,6 +15625,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C165948"
+			(at 35.56 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "SH"
 			(uuid "7192ca50-2901-4aac-9e5e-379e5d8d1230")
 		)
@@ -15730,6 +15774,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 45.72 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17513"
 			(at 45.72 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -15900,6 +15955,17 @@
 			)
 		)
 		(property "KiLib_Generator" "package/gullwing"
+			(at 355.6 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C3716101"
 			(at 355.6 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -16396,6 +16462,17 @@
 			)
 		)
 		(property "KiLib_Generator" "capacitor/SMD/elec_round"
+			(at 33.02 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C4747966"
 			(at 33.02 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -16993,7 +17070,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "X6511FV-24-C85D32"
 			(at 271.78 165.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17071,6 +17148,17 @@
 			)
 		)
 		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 273.05 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2883741"
 			(at 273.05 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -17308,6 +17396,17 @@
 			)
 		)
 		(property "KiLib_Generator" "package/gullwing"
+			(at 99.06 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C82404"
 			(at 99.06 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -17665,6 +17764,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C557685"
+			(at 110.49 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c96ca9d5-9b20-4a73-82db-5825ce2437dc")
 		)
@@ -17811,6 +17921,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C105240"
+			(at 252.73 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "2d30b598-4057-4850-8568-8e5d3ceb9ac6")
 		)
@@ -17860,7 +17981,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 346.71 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17904,6 +18025,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 346.71 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
 			(at 346.71 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -18085,6 +18217,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C965805"
+			(at 153.67 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fd8a8bb6-dba1-4ceb-9733-166dd5abbfd9")
 		)
@@ -18180,6 +18323,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 20.32 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 20.32 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -18438,6 +18592,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C3716101"
+			(at 355.6 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3c047c7e-852e-4f51-b12e-8aae124c41b8")
 		)
@@ -18477,7 +18642,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -18980,6 +19145,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C82404"
+			(at 99.06 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9b231b65-bcde-421d-962d-e40874a4d35a")
 		)
@@ -19226,6 +19402,17 @@
 				(justify left bottom)
 			)
 		)
+		(property "LCSC" "C126027"
+			(at 121.92 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "41af23a2-ffd0-402a-9c14-b12dcbbff8f7")
 		)
@@ -19334,6 +19521,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 133.35 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ebc616fd-1703-4b95-8136-2e87f859622b")
 		)
@@ -19429,6 +19627,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 109.22 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C15850"
 			(at 109.22 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -19588,6 +19797,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C20608708"
+			(at 172.72 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "107328be-4b12-48fd-9ac1-b83834ed2647")
 		)
@@ -19681,6 +19901,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 146.05 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17557"
 			(at 146.05 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -20018,6 +20249,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C965805"
+			(at 69.85 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f2f49fe-2573-4422-ba73-c9a912c86fab")
 		)
@@ -20345,6 +20587,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 370.84 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "53f9cfaa-37b0-4e65-915e-7fc6c307f6fa")
 		)
@@ -20528,6 +20781,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17557"
+			(at 69.85 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ada5d843-a966-46f8-ae44-5f2e13781307")
 		)
@@ -20677,6 +20941,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C20608708"
+			(at 236.22 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "76f91a4e-4a80-4bbc-8853-d81cf8148787")
 		)
@@ -20760,6 +21035,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 370.84 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 370.84 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -20985,6 +21271,17 @@
 			)
 		)
 		(property "KiLib_Generator" "package/gullwing"
+			(at 189.23 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C105240"
 			(at 189.23 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -21414,6 +21711,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 217.17 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "96f9cdce-0c99-46e6-8534-0c148c0c3fbf")
 		)
@@ -21541,6 +21849,17 @@
 			)
 		)
 		(property "LCSC Part Name" "BZT52C6V2"
+			(at 142.24 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2910064"
 			(at 142.24 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -21700,6 +22019,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C20608708"
+			(at 172.72 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7164ec16-71c7-4104-a582-96203527f954")
 		)
@@ -21795,6 +22125,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 298.45 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
 			(at 298.45 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -21920,7 +22261,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 204.47 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21964,6 +22305,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 204.47 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
 			(at 204.47 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -22549,6 +22901,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17818"
+			(at 142.24 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e93a614e-4d98-4ff5-a459-81227cd674d8")
 		)
@@ -22887,6 +23250,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17710"
+			(at 146.05 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d2b44ade-994b-4b26-9746-12c191c76117")
 		)
@@ -23136,6 +23510,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C557685"
+			(at 110.49 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "89d4505a-b3f8-4186-904f-99ccb0ac0a5a")
 		)
@@ -23297,6 +23682,17 @@
 			)
 		)
 		(property "KiLib_Generator" "package/gullwing"
+			(at 43.18 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C82404"
 			(at 43.18 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -23499,6 +23895,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C965805"
+			(at 142.24 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fd77736d-7695-43a4-97ff-ea01e5d56398")
 		)
@@ -23604,6 +24011,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C59882"
+			(at 58.42 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cfb74e9b-88d4-4bb4-8df5-75de135d55b2")
 		)
@@ -23687,6 +24105,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 370.84 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 370.84 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -23856,6 +24285,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C970725"
+			(at 40.64 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "11"
 			(uuid "9e925bdb-5040-43c7-b987-e3cbfc369a71")
 		)
@@ -23966,6 +24406,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 370.84 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 370.84 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -24146,6 +24597,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C557685"
+			(at 110.49 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6d017bff-fa4d-4aef-be7b-3339d49f9da1")
 		)
@@ -24229,6 +24691,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 370.84 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 370.84 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -24545,6 +25018,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C20608708"
+			(at 236.22 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cd9adc9f-ea79-4a27-8b00-0a1f7dce3974")
 		)
@@ -24627,6 +25111,17 @@
 			)
 		)
 		(property "KiLib_Generator" "package/gullwing"
+			(at 355.6 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C3716101"
 			(at 355.6 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -24839,6 +25334,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 298.45 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "17fa5b50-0598-4e16-b005-1a9ae74b668a")
 		)
@@ -24944,6 +25450,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 76.2 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1ad7d12b-e77c-41c4-bb15-d97575795c97")
 		)
@@ -25039,6 +25556,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 133.35 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C15850"
 			(at 133.35 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -25233,6 +25761,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 76.2 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ed9e36ec-af89-4bc8-b4c8-87768d1a2131")
 		)
@@ -25328,6 +25867,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 114.3 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C59882"
 			(at 114.3 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -25498,6 +26048,17 @@
 			)
 		)
 		(property "KiLib_Generator" "package/gullwing"
+			(at 355.6 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C3716101"
 			(at 355.6 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -25768,6 +26329,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C4747966"
+			(at 33.02 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8922f40f-f81d-47c0-810c-3882724c471e")
 		)
@@ -25939,6 +26511,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 153.67 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e52cd7bc-7be2-4915-862e-e27ceeb3fddc")
 		)
@@ -26034,6 +26617,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 109.22 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C15850"
 			(at 109.22 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -26193,6 +26787,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 153.67 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C965805"
 			(at 153.67 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -26445,6 +27050,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C4747966"
+			(at 88.9 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f00be2e1-6ca0-40a7-89f8-5de529e60f42")
 		)
@@ -26528,6 +27144,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 217.17 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 217.17 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -26655,7 +27282,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "X6511FV-24-C85D32"
 			(at 218.44 165.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26733,6 +27360,17 @@
 			)
 		)
 		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 217.17 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2883741"
 			(at 217.17 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -26846,7 +27484,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 346.71 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26890,6 +27528,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 346.71 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
 			(at 346.71 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -27049,6 +27698,17 @@
 			)
 		)
 		(property "KiLib_Generator" "package/gullwing"
+			(at 288.29 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C27204"
 			(at 288.29 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -27238,6 +27898,17 @@
 			)
 		)
 		(property "KiLib_Generator" "package/gullwing"
+			(at 43.18 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C82404"
 			(at 43.18 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -27440,6 +28111,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C3716101"
+			(at 355.6 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9cd731e2-6b94-4920-93b5-936f40a05528")
 		)
@@ -27605,6 +28287,17 @@
 				(justify left bottom)
 			)
 		)
+		(property "LCSC" "C126028"
+			(at 123.19 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "56e17b3b-72fa-46d8-b507-cfcd9e2b158a")
 		)
@@ -27762,6 +28455,17 @@
 			)
 		)
 		(property "KiLib_Generator" "capacitor/SMD/elec_round"
+			(at 88.9 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C4747966"
 			(at 88.9 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -27996,6 +28700,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C105240"
+			(at 252.73 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "4919f2f4-490d-4a15-a5b0-9694eeb6696f")
 		)
@@ -28113,6 +28828,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 29.21 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d6c54222-c17c-4c2e-8af7-6d04927ebc70")
 		)
@@ -28206,6 +28932,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 55.88 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C28323"
 			(at 55.88 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -28362,6 +29099,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C105240"
+			(at 189.23 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "3f4fbbec-c4f3-4257-977c-1c751110e9ef")
 		)
@@ -28469,6 +29217,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 58.42 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C59882"
 			(at 58.42 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -28594,7 +29353,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 346.71 125.73 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28638,6 +29397,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 346.71 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
 			(at 346.71 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -28731,6 +29501,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 153.67 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
 			(at 153.67 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -28989,6 +29770,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C557685"
+			(at 110.49 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c8c23e5b-0672-4ef8-80bb-a7faf5974cd0")
 		)
@@ -29170,6 +29962,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17575"
+			(at 59.69 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2deb0edd-37b0-47f7-967d-7fb65a548c6a")
 		)
@@ -29285,7 +30088,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 346.71 160.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29339,6 +30142,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 346.71 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "695f3ef0-2933-4951-a0ef-865a3ad03ea7")
 		)
@@ -29376,7 +30190,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 346.71 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29420,6 +30234,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 346.71 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
 			(at 346.71 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -29682,6 +30507,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 114.3 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C59882"
 			(at 114.3 217.17 0)
 			(hide yes)
 			(show_name no)
