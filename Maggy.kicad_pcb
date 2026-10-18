@@ -104,8 +104,8 @@
 		(filling no)
 		(aux_axis_origin 70 160)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_5555555d_57555ff5)
-			(plot_on_all_layers_selection 0x00000000_00000000_00000008_000000a0)
+			(layerselection 0x00000000_00000000_5555555d_5755ffff)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
@@ -132,12 +132,12 @@
 			(hidednponfab no)
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "production-files/")
 		)
 	)
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
@@ -2743,36 +2743,14 @@
 	(footprint "teensy:PinHeader_1x24_P2.54mm_Vertical_NO_PADS"
 		(layer "F.Cu")
 		(uuid "1592ab01-4967-45ce-8d42-ed3ade5f300f")
-		(at 209.42 62.69)
+		(at 209.42 91.9 -90)
 		(descr "Through hole straight pin header, 1x24, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x24 2.54mm single row")
-		(property "Reference" "J6"
-			(at 2.28 -0.74 0)
-			(layer "F.SilkS")
-			(uuid "e702894b-7266-4200-9ff7-1e121177c5aa")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "X6511FV-24-C85D32"
-			(at 0 60.8 0)
-			(layer "F.Fab")
-			(uuid "94f42bed-bbc5-4034-bf30-f06c5f21fc12")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "73731480-136f-4435-9d44-bad62e6c41aa")
+			(uuid "2b33bb8b-258d-4f63-b00e-7cefc35526db")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2780,10 +2758,10 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "73a8e5c9-db57-4d93-a373-2f9e6f32a229")
+			(uuid "1267601d-dd7b-49bc-9963-9bf86c907d50")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2791,7 +2769,7 @@
 			)
 		)
 		(property "KiLib_Generator" "connector/pin_header_socket"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "591136ed-3f77-420e-87f7-b50c28a6bd09")
@@ -2802,8 +2780,30 @@
 				)
 			)
 		)
+		(property "Value" "X6511FV-24-C85D32"
+			(at 0 60.8 90)
+			(layer "F.Fab")
+			(uuid "5373b212-c544-48bf-9cd7-498cffc747af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Reference" "J6"
+			(at -31.13 0 180)
+			(layer "F.SilkS")
+			(uuid "b43dec38-7b07-4aaa-9e12-7c65e3923808")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Manufacturer Part" "X6511FV-24-C85D32"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -2816,7 +2816,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -2829,7 +2829,7 @@
 			)
 		)
 		(property "Supplier Part" "C2883741"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -2842,7 +2842,7 @@
 			)
 		)
 		(property "LCSC" "C2883741"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "2b0ef54d-2263-41ae-aa2e-621577e7476e")
@@ -2857,49 +2857,21 @@
 		(path "/236d41e1-b5e3-41ec-8f1c-9357a023b9da")
 		(sheetname "/")
 		(sheetfile "Maggy.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
-					"16" "17" "18" "19" "20" "21" "22" "23" "24"
-				)
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -1.27 -0.635)
-			(end -0.635 -1.27)
+			(start -29.845 1.27)
+			(end -30.48 0.635)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "410143a6-8d7e-443a-9b13-a2351675ae7f")
+			(uuid "fc815b3a-3611-404a-b3e8-730901b4d52b")
 		)
 		(fp_line
-			(start -1.27 59.69)
-			(end -1.27 -0.635)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "ed6b3596-b408-4720-ad2e-ddf93add2d20")
-		)
-		(fp_line
-			(start -0.635 -1.27)
-			(end 1.27 -1.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "37e90ea1-261f-4fb9-8753-2543b307d189")
-		)
-		(fp_line
-			(start 1.27 -1.27)
-			(end 1.27 59.69)
+			(start 30.48 1.27)
+			(end -29.845 1.27)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -2908,17 +2880,37 @@
 			(uuid "739fc6ae-b9a0-445b-b564-399fb940ca62")
 		)
 		(fp_line
-			(start 1.27 59.69)
-			(end -1.27 59.69)
+			(start -30.48 0.635)
+			(end -30.48 -1.27)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "fc815b3a-3611-404a-b3e8-730901b4d52b")
+			(uuid "ed6b3596-b408-4720-ad2e-ddf93add2d20")
+		)
+		(fp_line
+			(start -30.48 -1.27)
+			(end 30.48 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "37e90ea1-261f-4fb9-8753-2543b307d189")
+		)
+		(fp_line
+			(start 30.48 -1.27)
+			(end 30.48 1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "410143a6-8d7e-443a-9b13-a2351675ae7f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 29.21 90)
+			(at 0 29.21 0)
 			(layer "F.Fab")
 			(uuid "73371fa3-b747-40a0-b7c2-0bf40cbe6bc6")
 			(effects
@@ -22726,36 +22718,14 @@
 	(footprint "teensy:PinHeader_1x24_P2.54mm_Vertical_NO_PADS"
 		(layer "F.Cu")
 		(uuid "b4536348-22e4-48a0-82c2-c88bfa80ac07")
-		(at 194.18 62.69)
+		(at 194.18 91.9 -90)
 		(descr "Through hole straight pin header, 1x24, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x24 2.54mm single row")
-		(property "Reference" "J5"
-			(at -2.28 -0.74 0)
-			(layer "F.SilkS")
-			(uuid "2aa26cf7-c273-4543-ad01-c9e9524d5124")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "X6511FV-24-C85D32"
-			(at 0 60.8 0)
-			(layer "F.Fab")
-			(uuid "83e7888f-6077-4d9a-98d4-ce9d9cff8465")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "05a7fd69-3e41-44d4-b80d-c272d8913a3b")
+			(uuid "c9e91043-eeb9-4954-bd89-b7c8b825502f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22763,10 +22733,10 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "439853c7-c18e-4515-aa2a-d066c1f0c069")
+			(uuid "750920fd-8491-44ce-b5c5-d3d478a0332b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22774,7 +22744,7 @@
 			)
 		)
 		(property "KiLib_Generator" "connector/pin_header_socket"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1ccb651b-f85b-4dc7-be75-ec105e6a241c")
@@ -22785,8 +22755,30 @@
 				)
 			)
 		)
+		(property "Value" "X6511FV-24-C85D32"
+			(at 0 60.8 90)
+			(layer "F.Fab")
+			(uuid "960dc7cd-846a-4cc2-81e0-09a830ac5fb1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Reference" "J5"
+			(at -31.15 0 180)
+			(layer "F.SilkS")
+			(uuid "641b7072-d2dd-4e29-bfc8-e1fa51dbd0ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Supplier Part" "C2883741"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22799,7 +22791,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22812,7 +22804,7 @@
 			)
 		)
 		(property "Manufacturer Part" "X6511FV-24-C85D32"
-			(at 0 0 0)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22825,7 +22817,7 @@
 			)
 		)
 		(property "LCSC" "C2883741"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "85a17e47-f350-47d1-be8a-c607f1c00bbd")
@@ -22840,39 +22832,11 @@
 		(path "/c1f0b976-0c89-476c-87e4-ae1892c8fb94")
 		(sheetname "/")
 		(sheetfile "Maggy.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15"
-					"16" "17" "18" "19" "20" "21" "22" "23" "24"
-				)
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -1.27 -0.635)
-			(end -0.635 -1.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "3117a8d3-d23d-4035-aa3c-2f40400e4f79")
-		)
-		(fp_line
-			(start -1.27 59.69)
-			(end -1.27 -0.635)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "d633b764-e8d5-4d39-a2a4-a944a0c7ca7d")
-		)
-		(fp_line
-			(start -0.635 -1.27)
-			(end 1.27 -1.27)
+			(start -29.845 1.27)
+			(end -30.48 0.635)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -22881,8 +22845,8 @@
 			(uuid "22b5a90e-6438-4fba-b866-0fbb4e5f3084")
 		)
 		(fp_line
-			(start 1.27 -1.27)
-			(end 1.27 59.69)
+			(start 30.48 1.27)
+			(end -29.845 1.27)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -22891,8 +22855,28 @@
 			(uuid "f1305075-456b-4043-b1b5-837cbc6af408")
 		)
 		(fp_line
-			(start 1.27 59.69)
-			(end -1.27 59.69)
+			(start -30.48 0.635)
+			(end -30.48 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3117a8d3-d23d-4035-aa3c-2f40400e4f79")
+		)
+		(fp_line
+			(start -30.48 -1.27)
+			(end 30.48 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d633b764-e8d5-4d39-a2a4-a944a0c7ca7d")
+		)
+		(fp_line
+			(start 30.48 -1.27)
+			(end 30.48 1.27)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -22901,7 +22885,7 @@
 			(uuid "058950d9-2896-41a9-9a94-3bb7261d0cbe")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 29.21 90)
+			(at 0 29.21 0)
 			(layer "F.Fab")
 			(uuid "c7347051-0490-4526-8c13-6377af0c853b")
 			(effects
