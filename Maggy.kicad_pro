@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.5,
-          "height": 1.0,
-          "width": 1.0
+          "drill": 0.0,
+          "height": 2.08,
+          "width": 0.81
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -90,7 +90,7 @@
           ""
         ],
         [
-          "silk_overlap|186197170|153945328|55ca70a8-8b94-4895-a909-dbf5907d6052|58d78981-374f-49e4-80f1-7855bedbdea1",
+          "silk_overlap|185564072|154477596|55ca70a8-8b94-4895-a909-dbf5907d6052|58d78981-374f-49e4-80f1-7855bedbdea1",
           ""
         ],
         [
@@ -851,7 +851,7 @@
         "uuid": "52283d6a-1d9f-44e8-81a2-e61315819c23"
       }
     ],
-    "used_designators": "J1-8,#FLG1-7,111,CN1-2,1111,C1-25,C28-32,U1-26,R1-26,R30-34,R41-45,USBC1,11,D1,#PWR1-73,11111,LED1-4,1",
+    "used_designators": "J1-8,#FLG1-7,111,CN1-2,1111,C1-25,C28-32,U1-26,R1-26,R30-34,R41-45,USBC1,11,D1,#PWR1-73,11111,LED1-5,1",
     "variants": []
   },
   "sheets": [
