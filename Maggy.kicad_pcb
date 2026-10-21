@@ -2747,9 +2747,9 @@
 		(descr "Through hole straight pin header, 1x24, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x24 2.54mm single row")
 		(property "Reference" "J6"
-			(at -31.13 0 180)
+			(at -31.13 0 0)
 			(layer "F.SilkS")
-			(uuid "f2cdea32-7768-455c-9565-e995d2795c4c")
+			(uuid "1efaa431-d1a4-4e16-b361-417192c94d8e")
 			(effects
 				(font
 					(size 1 1)
@@ -2760,7 +2760,7 @@
 		(property "Value" "X6511FV-24-C85D32"
 			(at 0 60.8 90)
 			(layer "F.Fab")
-			(uuid "42877dbd-5b09-4ec3-9095-59ca1668f5a3")
+			(uuid "dad19da9-e49f-4c28-a75c-694b83d22c2d")
 			(effects
 				(font
 					(size 1 1)
@@ -2772,7 +2772,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3aab2cf9-c9b2-43d6-8bb9-db1f2f4a6625")
+			(uuid "e0adc4fb-20dc-480d-8c28-98fc512cfc34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2783,7 +2783,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cbfa596a-6bfb-4db5-9bb1-ba79a5b928a5")
+			(uuid "54aaa9fb-e5fe-4448-affc-84d59b22c590")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2931,13 +2931,13 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x24_P2.54mm_Vertical.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -29.21 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -90)
 			)
 		)
 	)
@@ -22742,7 +22742,7 @@
 		(descr "Through hole straight pin header, 1x24, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x24 2.54mm single row")
 		(property "Reference" "J5"
-			(at -31.15 0 180)
+			(at -31.15 0 0)
 			(layer "F.SilkS")
 			(uuid "b0cdc8b6-de04-4a89-9143-e2bd5a09c6ea")
 			(effects
@@ -22926,13 +22926,13 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x24_P2.54mm_Vertical.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -29.21 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -90)
 			)
 		)
 	)
